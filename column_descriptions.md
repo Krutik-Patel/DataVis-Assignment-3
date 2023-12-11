@@ -1,5 +1,5 @@
 # Column Descriptions
-We first identify columns from both the SHCC dataset (2018-2022) and the [ADD NAME HERE] dataset which are common. We describe each of them below:
+We first identify columns from both the SHCC dataset (2018-2022) and the GED dataset which are common. We describe each of them below:
 
 | Column Name | Description |
 | --- | --- |
