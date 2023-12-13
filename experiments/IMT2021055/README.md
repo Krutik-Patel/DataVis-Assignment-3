@@ -57,10 +57,10 @@ The results of the clustering were as follows:
 | 1 | 724 | Orange | South |
 | 2 | 730 | Red | North |
 | 3 | 650 | Cyan/Light Green | North-East |
-Table 1
+[Table 1]
 
 ![[Ukraine-2022.png]]
-Figure 1
+[Figure 1]
 
 We observe (in Figure 1 and Table 1) a discernably high count for cluster 0. Upon visualizing the reported incidents on a geographical map and marking the clusters using color, we observe that cluster 0 represents the incidents along the eastern border of Ukraine, that is, the Russia-Ukraine border. These are indicated in blue color.
 
@@ -69,6 +69,19 @@ This observation leads to the inference that during the war between Russia and U
 We also observe that there is a dense "group" of incidents (in red color, cluster 2) around what is roughly the middle of cluster 2 (in northern Ukraine).
 
 We infer that this "group" appears to be located around Kiev, Ukraine's capital, which was an important target during the war.
+
+Our observations and Inferences seem to be aligned with reality, as our visualization in Figure 1 lines up quite well with those depicted by Al Jazeera in Figure 1a.
+
+![[Pasted image 20231213095047.png]]
+[Figure 1a: Image Courtesy - Al Jazeera]
+##### Key Cities in Each Cluster
+| Cluster Number | Color | City |
+| --- | --- | --- |
+| 0 | Blue | Mariupol and Donetsk, a major economic, industrial and scientific center of Ukraine, currently occupied by Russia |
+| 1 | Orange | Crimea (annexed by Russia in 2014) and Mykolaiv, which provides Ukraine with access to the Black Sea, are occupied by Russia |
+| 2 | Red | Kiev, Ukraine's capital |
+| 3 | Cyan/Light Green | Kharkiv,  a major cultural, scientific, educational, transport and industrial centre of Ukraine |
+[Table 1a] Source: Wikipedia
 #### Afghanistan - 2020
 The results of the clustering were as follows:
 
@@ -78,10 +91,10 @@ The results of the clustering were as follows:
 | 1 | 981 | Orange | South |
 | 2 | 678 | Red | West |
 | 3 | 842 | Cyan/Light Green | East |
-Table 2
+[Table 2]
 
 ![[Afghanistan-2020.png]]
-Figure 2
+[Figure 2]
 
 We observe (in Figure 2 and Table 2) that all clusters roughly report the same number of incidents (about 650-950). Upon visualizing the reported incidents on a geographical map and marking the clusters using color, this observation is reaffirmed as we observe all 4 clusters to be spread uniformly across the country.
 
@@ -92,7 +105,15 @@ We also observe an empty patch located slightly to the right of central Afghanis
 We infer that this "empty patch" is indicative of the geography of Afghanistan and is probably spanned over by mountain ranges, which do not make viable targets for attacks. This is further confirmed by Figure 3.
 
 ![[Pasted image 20231212164856.png]]
-Figure 3: A geographical overview of Afghanistan: Image Courtesy - Wikipedia
+[Figure 3: A geographical overview of Afghanistan: Image Courtesy - Wikipedia]
+##### Key Military Bases in Each Cluster
+| Cluster Number | Color | Cities |
+| --- | --- | --- |
+| 0 | Blue | Mazar-i-Sharif, first Afghan city to fall post 9/11 |
+| 1 | Orange | Helmand and Kandahar |
+| 2 | Red | Herat and Shindand |
+| 3 | Cyan/Light Green | Bagram, Jalalabad, and Gardez |
+[Table 2a] Source: [Nine US bases in Afghanistan | Al Arabiya](https://english.alarabiya.net/News/asia/2013/05/09/U-S-wants-to-keep-nine-bases-in-Afghanistan-says-Karzai)
 #### Myanmar - 2021
 Due to the "tall and narrow" geography of Myanmar, the clusters indicate Upper, Upper-Middle, Lower-Middle, and Lower segments instead of the expected North, South, East, and West.
 
@@ -102,10 +123,10 @@ Due to the "tall and narrow" geography of Myanmar, the clusters indicate Upper, 
 | 1 | 464 | Orange | Upper-Middle |
 | 2 | 113 | Red | Upper |
 | 3 | 142 | Cyan/Light Green | Lower |
-Table 3
+[Table 3]
 
 ![[Myanmar-2021.png]]
-Figure 4
+[Figure 4]
 
 We observe (in Figure 4 and Table 3) that cluster 1 (indicated in orange) reports significantly higher number of incidents than other clusters. Upon visualizing the reported incidents on a geographical map and marking the clusters using color, this observation is reaffirmed as we observe a dominant presence of orange marks near Central and Western Myanmar.
 
@@ -113,12 +134,20 @@ This observation leads to the inference that during due to the prolonged conflic
 
 We also observe that cluster 3 (indicated by cyan/light green) constituted the second-highest fraction of reported incidents, and is focused more near the southern part of the country.
 
-The inference that we draw from this observation is as follows: *historically*, the southern part of Myanmar was occupied by minorities (mostly Muslims) who were rigorously discriminated against, which might have led to conflict in the area (using Figure 8 as a reference).
+The inference that we draw from this observation is as follows: *historically*, the southern part of Myanmar was occupied by minorities (mostly Muslims) who were rigorously discriminated against, which might have led to conflict in the area (using Figure 4a as a reference). A similar reasoning can be given for cluster 1 (indicated in orange) as well, where the Muslim population was effectively driven out of the country and into the neighboring nation of Bangladesh as refugees.
 
 ![[WhatsApp Image 2023-12-12 at 21.16.32_cf80371c.jpg]]
-Figure 8: Shows the percent population of Muslims in different states of Myanmar: Image Courtesy - [State wise Muslim population distribution in Myanmar according to census | ResearchGate](https://www.researchgate.net/figure/State-wise-Muslim-population-distribution-in-Myanmar-according-to-2014-census-A_fig2_332253865)
+[Figure 4a:] Shows the percent population of Muslims in different states of Myanmar: Image Courtesy - [State wise Muslim population distribution in Myanmar according to census | ResearchGate](https://www.researchgate.net/figure/State-wise-Muslim-population-distribution-in-Myanmar-according-to-2014-census-A_fig2_332253865)
 
 Overall, the entire country appears to be covered by conflict, from which we infer that a nation-wide event must have occurred, triggering this scenario. We conclude that the Coup in Myanmar (2021) is a strong candidate for this situation (see reference: [2021 Myanmar Coup D’etat | Britannica](https://www.britannica.com/event/2021-Myanmar-coup-d-etat)).
+##### Key Cities in Prominent Clusters
+| Cluster Number | Color | Cities |
+| --- | --- | --- |
+| 0 | Blue | - (cluster is too thin) |
+| 1 | Orange | Regions around Naypyidaw (Myanmar's capital), and Bagan, a city of cultural importance |
+	| 2 | Red | Myitkyina,  strategically important because of its rail and water links to the rest of the country |
+| 3 | Cyan/Light Green | Yangon, which was once Myanmar's capital and holds historical importance |
+[Table 3a] Source: Wikipedia
 #### Syria - 2020
 
 | Cluster Number | Count | Color | Indicates |
@@ -127,10 +156,10 @@ Overall, the entire country appears to be covered by conflict, from which we inf
 | 1 | 266 | Orange | East, North-East |
 | 2 | 155 | Red | South, South-West |
 | 3 | 583 | Cyan/Light Green | West, North-West |
-Table 4
+[Table 4]
 
 ![[Syria-2020.png]]
-Figure 5
+[Figure 5]
 
 We observe (in Figure 5 and Table 4) that cluster 3 (indicated in cyan/light green) reports significantly higher number of incidents compared to other clusters. Upon visualizing the reported incidents on a geographical map and marking the clusters using color, this observation is reaffirmed as we observe a dominant presence of cyan/light green marks near the North-West border of the nation (the Turkey-Syria border). The obtained visualization is also in accordance with the actual war-torn regions in Syria (see Figure 6), as per the Washington Post.
 
@@ -143,19 +172,27 @@ From this observation, we infer that this area was probably a volatile zone of c
 Finally, we notice that cluster 2 (indicated by red, third highest by count) is tightly grouped in the southern part of Syria.
 
 We infer that this grouping is probably centered around Damascus and Daraya (see Figure 7), which are important cities in Syria, making them strategic targets for insurgent groups and rebels.
+##### Key Cities in Each Cluster
+| Cluster Number | Color | Cities |
+| --- | --- | --- |
+| 0 | Blue | Raqqa, a city of historical and religious significance |
+| 1 | Orange | Deir al-Zour |
+| 2 | Red | Damascus (capital of Syria) and Daraya, are important historical and cultural centers |
+	| 3 | Cyan/Light Green | Homs, which before the Syrian Civil War, was a major industrial center, and Aleppo, a city of historical importance |
+[Table 4a] Source: Wikipedia
 
 ![[Pasted image 20231212172705.png]]
-Figure 6: A bird's eye view of war-torn regions in Syria: Image Courtesy - Washington Post
+[Figure 6: A bird's eye view of war-torn regions in Syria: Image Courtesy - Washington Post]
 
 ![[Pasted image 20231212172804.png]]
-Figure 7: Regions and their controlling authority: Image Courtesy - National Geographic Education Blog
+[Figure 7: Regions and their controlling authority: Image Courtesy - National Geographic Education Blog]
 
 \* We recognize that Figure 7 is dated 2016, but for our purposes, the regions being controlled by various organizations remained largely the same till 2020.
 ## Data Analytics Workflow
 (Reference: [Visual Analytics: Definition, Process and Challenges, Kiem et al. (cnrs.fr)](https://hal-lirmm.ccsd.cnrs.fr/lirmm-00272779/document))
 
-![[Pasted image 20231212223606.png]]
-Figure 9: Kiem et al. visual analytics workflow: Image Courtesy - [Visual Analytics: Definition, Process and Challenges (cnrs.fr)](https://hal-lirmm.ccsd.cnrs.fr/lirmm-00272779/document)
+![[Pasted image 20231213093817.png]]
+[Figure 9:] Kiem et al. visual analytics workflow: Image Courtesy - [Visual Analytics: Definition, Process and Challenges (cnrs.fr)](https://hal-lirmm.ccsd.cnrs.fr/lirmm-00272779/document)
 
 We now provide a summary of 2 runs of the above workflow.
 ### First Run
@@ -188,6 +225,6 @@ These two points serve as feedback from the visualizations generated in the firs
 #### Visualization
 #### Knowledge
 #### Feedback
-
+## Overall Inferences
 ## Authors
 - Vidhish Trivedi - IMT2021055
