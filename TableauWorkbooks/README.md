@@ -1,0 +1,3 @@
+- The experiments/IMT2021055 directory contains data processing and machine learning tasks.
+- The TableauWorkbooks directory contains Tableau workbooks created for assignment-3, each workbook called `*Clustered.twb` uses an excel file called `*Clustered.csv`, present in the experiments directory.
+- column_descriptions_shcc.md describes relevant columns in the SHCC dataset.
