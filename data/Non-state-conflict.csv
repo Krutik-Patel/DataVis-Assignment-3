@@ -1,0 +1,469 @@
+dyad_id,dyadid_new,org,year,gwno_location,side_a_name,side_a_id,side_a_live,side_a_rel,side_b_name,side_b_id,side_b_live,side_b_rel,dyadic_live,issue_territory,issue_authority,issue_other,subissue_agland_water,subissue_religious,subissue_formal_aut,subissue_livestock,subissue_informal_authority,subissue_territory,subissue_other,primary,secondary,timeref
+2,5175,3,2008,520,Abgal clan (Hawiye),1907,2,0,Xawaadle clan (Hawiye),1758,2,0,22,1,0,0,1,0,0,0,0,0,0,0,5,5
+3,5176,3,2002,452,Abudu,1424,4,1,Adani,1759,4,1,44,0,1,0,0,0,0,0,1,0,0,0,5,5
+4,5177,2,2008,475,Supporters of ACN (Action Congress of Nigeria),1760,5,0,Supporters of PDP (People's Democratic Party),1527,5,1,55,0,1,0,0,0,1,0,0,0,0,0,1,5
+4,5177,2,2011,475,Supporters of ACN (Action Congress of Nigeria),1760,5,0,Supporters of PDP (People's Democratic Party),1527,5,1,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+5,5178,2,2003,475,Supporters of AD (Alliance for Democracy),1425,5,0,Supporters of PDP (People's Democratic Party),1527,5,1,55,0,1,0,0,0,1,0,0,0,0,0,1,5
+6,5179,3,2002,530,Afar,1426,2,0,Kereyou,1491,2,0,22,1,0,0,1,0,0,0,0,0,0,0,1,5
+6,5179,3,2003,530,Afar,1426,2,0,Kereyou,1491,2,0,22,1,0,0,1,0,0,0,0,0,0,0,1,5
+7,5180,3,2002,530,Afar,1426,2,0,Issa,1479,2,0,22,1,0,0,1,0,0,0,0,1,0,0,5,5
+8,5181,3,2004,520,Abtisame subclan of Galje'el clan (Hawiye),1423,2,0,Afi subclan of Galje'el clan (Hawiye),1427,2,0,22,1,0,1,1,0,0,0,0,0,1,0,1,3
+9,5182,3,2002,520,Agon-Yar subclan of Abgal clan (Hawiye),1429,2,0,Warsangeli subclan of Abgal clan (Hawiye),1560,2,0,22,0,1,0,0,0,1,0,0,0,0,5,5,3
+10,5183,1,2008,520,Ahlu Sunna Waljamaca,1761,5,1,Al-Shabaab,1578,5,1,55,1,0,1,0,1,0,0,0,1,0,1,5,3
+10,5183,1,2009,520,Ahlu Sunna Waljamaca,1761,5,1,Al-Shabaab,1578,5,1,55,1,0,1,0,1,0,0,0,1,0,1,5,3
+10,5183,1,2010,520,Ahlu Sunna Waljamaca,1761,5,1,Al-Shabaab,1578,5,1,55,1,0,1,0,1,0,0,0,1,0,1,5,3
+11,5184,3,2002,520,Ali-Gaf subclan of Abgal clan (Hawiye),1430,2,0,Mahadade subclan of Abgal clan (Hawiye),1499,2,0,22,0,0,1,0,0,0,0,0,0,1,0,1,3
+12,5185,3,2002,490,Alur,1431,4,0,Lendu,1495,3,0,34,0,0,1,0,0,0,0,0,0,1,0,5,5
+13,5186,3,2006,530,Amaro,1432,3,0,Guji,1467,1,0,13,1,0,0,1,0,0,0,0,0,0,0,1,3
+15,5188,2,2003,475,Supporters of ANPP (All Nigeria People's Party),1434,5,1,Supporters of PDP (People's Democratic Party),1527,5,1,55,1,1,0,0,0,1,0,0,1,0,0,5,5
+15,5188,2,2004,475,Supporters of ANPP (All Nigeria People's Party),1434,5,1,Supporters of PDP (People's Democratic Party),1527,5,1,55,1,1,0,0,0,1,0,0,1,0,0,5,5
+18,5191,3,2002,530,Anuak,1435,3,0,Dinka,1452,2,0,23,0,1,0,0,0,1,0,0,0,0,0,5,3
+19,5192,3,2002,530,Anuak,1435,3,0,Nuer,1519,1,0,13,1,1,0,0,0,1,0,0,1,0,0,5,3
+19,5192,3,2003,530,Anuak,1435,3,0,Nuer,1519,1,0,13,1,1,0,0,0,1,0,0,1,0,0,5,3
+20,5193,3,2006,625,Agar Dinka,1436,2,0,Gok Dinka,1437,4,0,24,1,0,1,1,0,0,1,0,0,0,5,1,5
+21,5194,1,2006,520,ARPCT (Isbaheysiga Ladagaalanka Argagaxisadda: Alliance for the Restoration of Peace and Counter-Terrorism),1438,5,1,ARS/UIC (Alliance for the Re-Liberation of Somalia/Union of Islamic Courts),1355,5,1,55,1,0,1,0,1,0,0,0,1,0,5,5,3
+22,5195,1,2003,500,Arrow Boys,1439,5,0,LRA (Lord's Resistance Army),1336,5,1,55,0,0,1,0,0,0,0,0,0,1,1,5,3
+25,5197,1,2008,490,Bangadi Militia,1762,5,0,LRA (Lord's Resistance Army),1336,5,0,55,0,0,1,0,0,0,0,0,0,1,1,5,3
+27,5199,3,2007,490,Bena Kapuya,1504,3,0,Bena Nsimba,1503,3,0,33,1,0,0,0,0,0,0,0,1,0,0,1,5
+28,5200,3,2003,530,Bi'idyahan subclan of Majerteen clan (Darod),1570,2,0,Ismail subclan of Makahil clan (Darod),1571,2,0,22,1,0,0,0,0,0,0,0,1,0,0,1,3
+30,5202,3,2003,500,Bokora Karimojong,1444,1,0,Jie,1489,1,0,11,0,0,1,0,0,0,1,0,0,0,0,5,5
+30,5202,3,2007,500,Bokora Karimojong,1444,1,0,Jie,1489,1,0,11,0,0,1,0,0,0,1,0,0,0,0,5,5
+31,5203,3,2003,500,Bokora Karimojong,1444,1,0,Pian Karimojong,1528,1,0,11,1,0,1,1,0,0,1,0,0,0,1,5,5
+31,5203,3,2005,500,Bokora Karimojong,1444,1,0,Pian Karimojong,1528,1,0,11,1,0,1,1,0,0,1,0,0,0,0,5,5
+32,5204,3,2007,625,Bor Dinka,1569,2,0,Murle,1514,1,0,12,0,0,1,0,0,0,1,0,0,0,0,5,3
+32,5204,3,2011,626,Bor Dinka,1569,2,0,Murle,1514,1,0,12,0,0,1,0,0,0,1,0,0,0,0,1,5
+33,5205,3,2006,530,Borana,1445,2,0,Guji,1467,1,0,12,1,0,1,0,0,0,1,0,1,0,0,5,5
+34,5206,3,2008,530,Borana,1445,2,0,Konso,1922,3,0,23,1,0,0,1,0,0,0,0,0,0,1,5,3
+35,5207,3,1992,530,Borana,1445,2,0,"Gabra, Garre",553003,2,0,22,1,0,0,1,0,0,0,0,1,0,0,5,3
+36,5208,3,2006,530,Burji,1446,3,0,Guji,1467,1,0,13,1,0,0,1,0,0,0,0,1,0,0,1,2
+37,5209,1,2003,516,CNDD-FDD (Conseil national pour la dÃÂÃÂ©fense de la dÃÂÃÂ©mocratie-Forces pour la dÃÂÃÂ©fense de la dÃÂÃÂ©mocratie: National Council for the Defence of Democracy-Forces for the Defence of Democracy),1280,5,0,Palipehutu-FNL (Parti pour la libÃÂÃÂ©ration du peuple Hutu-Forces nationales de libÃÂÃÂ©ration: Party for the Liberation of the Hutu People-Forces for National Liberation),1278,5,0,55,0,1,0,0,0,1,0,0,0,0,0,1,3
+37,5209,1,2004,516,CNDD-FDD (Conseil national pour la dÃÂÃÂ©fense de la dÃÂÃÂ©mocratie-Forces pour la dÃÂÃÂ©fense de la dÃÂÃÂ©mocratie: National Council for the Defence of Democracy-Forces for the Defence of Democracy),1280,5,0,Palipehutu-FNL (Parti pour la libÃÂÃÂ©ration du peuple Hutu-Forces nationales de libÃÂÃÂ©ration: Party for the Liberation of the Hutu People-Forces for National Liberation),1278,5,0,55,0,1,0,0,0,1,0,0,0,0,0,1,3
+38,5210,1,2008,490,CNDP (CongrÃÂÃÂ¨s National pour la DÃÂÃÂ©fense du Peuple: National Congress for the Defence of the People),1272,5,0,PARECO (Parti des rÃÂÃÂ©sistants congolais: Coalition of Congolese Patriotic Resistance),1763,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,5
+41,5213,3,2004,520,Dabare subclan of Digil clan (Digil-Mirifle),1447,1,0,Luway subclan of Mirifle clan (Digil-Mirifle),1497,2,0,12,1,1,0,1,0,1,0,0,0,0,0,5,3
+42,5214,3,2006,483,Darsalim,1448,4,0,Kibete,1493,4,0,44,0,0,1,0,0,0,0,0,0,1,0,5,5
+43,5215,3,2004,520,Da'ud subclan of Abgal clan (Hawiye),1449,4,0,Warsangeli subclan of Abgal clan (Hawiye),1560,2,0,24,1,0,0,0,0,0,0,0,1,0,1,5,3
+44,5216,3,2003,530,Dawa,1450,4,0,Gura,1468,4,0,44,1,0,0,0,0,0,0,0,1,0,0,0,2
+45,5217,3,2008,530,Derashe,1788,3,0,Konso,1922,3,0,33,1,0,0,0,0,0,0,0,1,0,0,1,5
+46,5218,3,2007,625,Didinga,1568,3,0,Toposa,1553,1,0,13,1,0,1,1,0,0,1,0,0,0,0,1,5
+50,5219,3,2004,520,Dir clan,1454,2,0,Marehan subclan of Sede clan (Darod),1501,2,0,22,1,0,0,1,0,0,0,0,0,0,0,5,5
+51,5220,3,2002,520,Dir clan,1454,2,0,Sa'ad subclan of Habar Gidir clan (Hawiye),1540,2,0,22,1,0,0,1,0,0,0,0,0,0,0,5,5
+51,5220,3,2003,520,Dir clan,1454,2,0,Sa'ad subclan of Habar Gidir clan (Hawiye),1540,2,0,22,1,0,0,1,0,0,0,0,0,0,0,5,5
+52,5221,3,1991,530,Dizi,1455,3,0,Suri,1549,1,0,13,1,0,1,1,0,0,1,0,0,0,5,5,5
+52,5221,3,1993,530,Dizi,1455,3,0,Suri,1549,1,0,13,1,0,1,1,0,0,1,0,0,0,5,5,3
+52,5221,3,2002,530,Dizi,1455,3,0,Suri,1549,1,0,13,0,0,1,0,0,0,0,0,0,1,5,5,2
+54,5223,3,1993,501,Nyangatom,1573,2,0,Turkana,1554,1,0,12,1,0,1,1,0,0,1,0,0,0,0,5,5
+54,5223,3,2006,530,Nyangatom,1573,2,0,Turkana,1554,1,0,12,1,0,1,1,0,0,1,0,0,0,0,5,5
+55,5224,3,2004,520,Duduble subclan of Gorgorte clan (Hawiye),1456,2,0,Suleiman subclan of Habar Gidir clan (Hawiye),1548,2,0,22,1,0,0,1,0,0,0,0,0,0,0,1,3
+56,5225,1,2004,490,FAPC (Forces armÃÂÃÂ©es du peuple Congolais: People's Armed Forces of Congo),1457,5,0,FNI (Front Nationalist et Integrationist: Front for National Integration),1460,5,0,55,1,0,0,0,0,0,0,0,1,0,0,5,5
+58,5227,1,2004,437,FRCI (Forces RÃÂÃÂ©publicaines de CÃÂÃÂ´te d'Ivoire: Republican Forces of Ivory Coast),1412,5,0,FN - IC (Forces Nouvelles - Ibrahim Coulibaly faction: New Forces - Ibrahim Coulibaly faction),1459,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+59,5228,1,2005,437,FRCI (Forces RÃÂÃÂ©publicaines de CÃÂÃÂ´te d'Ivoire: Republican Forces of Ivory Coast),1412,5,0,MILOCI (Mouvement pour la Liberation de l'Ouest de la CÃÂÃÂ´te d'Ivoire: Movement for the Liberation of Western Ivory Coast),1510,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+61,5230,1,2002,520,Forces of Abdullahi Yusuf,1422,5,0,Forces of Jama Ali Jama,1482,5,0,55,0,1,0,0,0,1,0,0,0,0,5,5,5
+66,5234,3,2003,475,Fulani,1461,2,1,Yugur,1563,3,1,23,1,0,0,1,0,0,0,0,0,0,0,5,5
+67,5235,3,2002,475,Fulani,1461,2,1,Mambila,1500,3,0,23,1,0,0,0,0,0,0,0,1,0,0,5,5
+68,5236,3,2008,520,Gaadsan subclan of Biimaal clan (Dir),1764,4,0,Ma'alin Weyne subclan of Mirifle clan (Digil-Mirifle),1765,4,0,44,1,0,0,1,0,0,0,0,1,0,1,5,3
+69,5237,3,2005,530,Gabra,1463,2,0,Guji,1467,1,0,12,1,0,1,0,0,0,0,0,1,1,0,1,3
+70,5238,3,2005,520,Galje'el clan (Hawiye),1464,2,0,Jejele subclan of Jibedi clan (Hawiye),1487,2,0,22,1,0,0,1,0,0,0,0,0,0,0,5,5
+71,5239,3,2006,475,Gamai,1465,4,1,Pan,1525,4,1,44,1,1,0,0,0,1,0,0,1,0,1,5,5
+72,5240,3,2005,520,Garre subclan of Digil clan (Digil-Mirifle),1466,1,0,Marehan subclan of Sede clan (Darod),1501,2,0,12,1,0,0,0,0,0,0,0,1,0,5,5,3
+73,5241,3,2005,501,Garre subclan of Digil clan (Digil-Mirifle),1466,1,0,Murule subclan of Gugundabe clan (Hawiye),1515,2,0,12,1,1,0,1,0,1,0,0,0,0,1,5,5
+73,5241,3,2008,501,Garre subclan of Digil clan (Digil-Mirifle),1466,1,0,Murule subclan of Gugundabe clan (Hawiye),1515,2,0,12,1,0,1,1,0,0,1,0,0,0,0,5,5
+74,5242,3,2008,530,Gumuz,1766,3,0,Oromo,1523,1,0,13,1,0,0,0,0,0,0,0,1,0,5,5,5
+75,5243,3,2007,625,Falata,1552,4,0,Habaniya,1469,2,0,24,1,0,1,0,0,0,1,0,1,0,3,1,3
+75,5243,3,2008,625,Falata,1552,4,0,Habaniya,1469,2,0,24,1,0,1,0,0,0,1,0,1,0,3,1,3
+75,5243,3,2009,625,Falata,1552,4,0,Habaniya,1469,2,0,24,1,0,1,0,0,0,1,0,1,0,3,1,3
+76,5244,3,2006,625,Habaniya,1469,2,0,Rizeigat Baggara,1564,2,0,22,1,0,0,1,0,0,0,0,0,0,0,1,3
+77,5245,3,2000,475,Hausa,1462,2,1,Igbo,1476,4,1,24,0,0,1,0,1,0,0,0,0,0,0,5,5
+78,5246,3,2002,475,Hausa,1462,2,1,Tarok,1550,3,1,23,1,0,1,0,1,0,0,0,1,0,0,1,5
+79,5247,3,1998,475,Hausa,1462,2,1,Yoruba,1562,3,1,23,0,1,0,0,0,1,0,0,0,0,0,5,2
+79,5247,3,1999,475,Hausa,1462,2,1,Yoruba,1562,3,1,23,0,1,0,0,0,1,0,0,0,0,0,5,2
+79,5247,3,2002,475,Hausa,1462,2,1,Yoruba,1562,3,1,23,0,0,1,0,0,0,0,0,0,1,3,5,5
+80,5248,3,1999,490,Hema,1470,2,0,Lendu,1495,3,0,23,1,1,0,0,0,1,0,0,1,0,0,5,5
+80,5248,3,2000,490,Hema,1470,2,0,Lendu,1495,3,0,23,1,1,0,0,0,1,0,0,1,0,0,5,5
+80,5248,3,2001,490,Hema,1470,2,0,Lendu,1495,3,0,23,1,1,0,0,0,1,0,0,1,0,0,5,5
+80,5248,3,2002,490,Hema,1470,2,0,Lendu,1495,3,0,23,1,1,0,0,0,1,0,0,1,0,0,5,5
+80,5248,3,2003,490,Hema,1470,2,0,Lendu,1495,3,0,23,1,1,0,0,0,1,0,0,1,0,0,5,5
+83,5250,3,2005,625,Hotiya Baggara,1472,2,0,"Newiba, Mahariba, Mahamid",562503,2,0,22,1,0,1,1,0,0,1,0,0,1,0,5,3
+85,5252,3,2005,520,Huber subclan of Mirifle clan (Digil-Mirifle),1473,3,0,Yantar subclan of Mirifle clan (Digil-Mirifle),1561,2,0,23,1,0,0,1,0,0,0,0,1,0,5,5,5
+86,5253,3,1997,475,Ijaw,1477,4,0,Itsekiri,1480,3,1,34,1,1,0,0,0,1,0,0,1,0,0,5,5
+86,5253,3,1998,475,Ijaw,1477,4,0,Itsekiri,1480,3,1,34,1,1,0,0,0,1,0,0,1,0,0,5,5
+86,5253,3,1999,475,Ijaw,1477,4,0,Itsekiri,1480,3,1,34,1,1,0,0,0,1,0,0,1,0,0,5,5
+86,5253,3,2003,475,Ijaw,1477,4,0,Itsekiri,1480,3,1,34,0,1,0,0,0,1,0,0,0,0,1,5,5
+89,5256,3,2005,475,Izzi,1481,3,0,Ukele,1555,3,0,33,1,1,0,1,0,1,0,0,0,0,3,5,3
+91,5258,1,2003,625,Janjaweed,1485,5,0,JEM (Justice and Equality Movement),1315,5,1,55,0,1,0,0,0,1,0,0,0,0,0,1,5
+92,5259,1,2005,625,Janjaweed,1485,5,0,SLM/A (Sudan Liberation Movement/Army),1316,5,0,55,0,1,0,0,0,1,0,0,0,0,0,1,5
+93,5260,1,2005,625,Janjaweed ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ Bin Kulaib faction,1484,5,0,Janjaweed ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ Moro faction,1483,5,0,55,0,0,1,0,0,0,1,0,0,0,0,1,5
+95,5261,3,1999,501,Jie,1489,1,0,Turkana,1554,1,0,11,1,0,1,1,0,0,1,0,0,0,5,5,5
+95,5261,3,2008,501,Jie,1489,1,0,Turkana,1554,1,0,11,1,0,1,1,0,0,1,0,0,0,5,5,5
+97,5263,1,2003,520,JVA (Jubba Valley Alliance),1490,5,0,JVA faction (Jubba Valley Alliance faction),1649,5,0,55,1,0,0,0,0,0,0,0,1,0,0,5,5
+98,5264,1,1999,520,Forces of General Morgan,1966,5,0,JVA (Jubba Valley Alliance),1490,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,5
+98,5264,1,2004,520,Forces of General Morgan,1966,5,0,JVA (Jubba Valley Alliance),1490,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,5
+100,5266,3,1992,501,Kalenjin,1903,2,0,Kikuyu,1795,3,0,23,1,1,0,0,0,1,0,0,1,0,1,5,5
+100,5266,3,1993,501,Kalenjin,1903,2,0,Kikuyu,1795,3,0,23,1,1,0,0,0,1,0,0,1,0,1,5,5
+100,5266,3,1994,501,Kalenjin,1903,2,0,Kikuyu,1795,3,0,23,1,1,0,0,0,1,0,0,1,0,1,5,5
+100,5266,3,1998,501,Kalenjin,1903,2,0,Kikuyu,1795,3,0,23,1,1,1,0,0,1,1,0,1,0,1,5,3
+100,5266,3,2008,501,Kalenjin,1903,2,0,Kikuyu,1795,3,0,23,1,1,0,0,0,1,0,0,1,0,1,5,5
+102,5267,3,2008,501,Kalenjin,1903,2,0,Kisii,1796,3,0,23,1,1,1,0,0,1,1,0,1,0,1,5,5
+103,5268,3,2000,452,Kusasi,1941,4,1,Mamprusi,1942,3,1,34,0,1,0,0,0,1,0,0,0,0,0,5,5
+103,5268,3,2001,452,Kusasi,1941,4,1,Mamprusi,1942,3,1,34,0,1,0,0,0,1,0,0,0,0,0,5,5
+103,5268,3,2008,452,Kusasi,1941,4,1,Mamprusi,1942,3,1,34,1,1,0,0,0,0,0,1,1,0,0,5,5
+105,5270,3,2006,625,Lou Nuer,1567,2,0,Murle,1514,1,1,12,0,0,1,0,0,0,1,0,0,0,0,5,5
+105,5270,3,2007,625,Lou Nuer,1567,2,0,Murle,1514,1,1,12,0,0,1,0,0,0,1,0,0,0,0,5,5
+105,5270,3,2009,625,Lou Nuer,1567,2,0,Murle,1514,1,1,12,0,0,1,0,0,0,1,0,0,0,0,5,5
+105,5270,3,2011,625,Lou Nuer,1567,2,0,Murle,1514,1,1,12,0,0,1,0,0,0,1,0,0,0,0,5,5
+106,5271,3,2008,625,Hol Dinka,1767,1,0,Lou Nuer,1567,2,0,12,1,1,1,1,0,1,1,0,0,0,0,5,5
+106,5271,3,2009,625,Hol Dinka,1767,1,0,Lou Nuer,1567,2,0,12,1,1,1,1,0,1,1,0,0,0,0,5,5
+107,5272,1,1995,625,LRA (Lord's Resistance Army),1336,5,1,SPLM/A (Sudan People's Liberation Movement/Army),1312,5,0,55,0,1,0,0,0,1,0,0,0,0,0,1,5
+107,5272,1,1996,625,LRA (Lord's Resistance Army),1336,5,1,SPLM/A (Sudan People's Liberation Movement/Army),1312,5,0,55,0,1,0,0,0,1,0,0,0,0,0,1,5
+107,5272,1,1997,625,LRA (Lord's Resistance Army),1336,5,1,SPLM/A (Sudan People's Liberation Movement/Army),1312,5,0,55,0,1,0,0,0,1,0,0,0,0,0,1,5
+107,5272,1,1998,625,LRA (Lord's Resistance Army),1336,5,1,SPLM/A (Sudan People's Liberation Movement/Army),1312,5,0,55,0,1,0,0,0,1,0,0,0,0,0,1,5
+107,5272,1,2004,625,LRA (Lord's Resistance Army),1336,5,1,SPLM/A (Sudan People's Liberation Movement/Army),1312,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+110,5275,3,2008,501,Kikuyu,1795,3,0,Luo,1768,3,0,33,1,1,0,0,0,1,0,0,1,0,5,5,5
+111,5276,3,2002,625,Ma'aliyah,1498,2,0,Rizeigat Baggara,1564,2,0,22,1,0,0,1,0,0,0,0,0,0,0,1,2
+111,5276,3,2004,625,Ma'aliyah,1498,2,0,Rizeigat Baggara,1564,2,0,22,1,0,0,1,0,0,0,0,0,0,0,1,2
+114,5279,3,2003,520,Fiqi Muhumud subclan (Dir),1458,2,0,Marehan subclan of Sede clan (Darod),1501,2,0,22,1,0,0,1,0,0,0,0,1,0,1,5,5
+115,5280,3,2006,530,Majerteen subclan (Darod),1572,2,0,Marehan subclan of Sede clan (Darod),1501,2,0,22,1,0,0,1,0,0,0,0,0,0,5,5,5
+116,5281,3,2004,530,Majerteen subclan (Darod),1572,2,0,Ogaden clan (Darod),1522,2,0,22,0,0,1,0,0,0,NA,0,0,NA,0,0,0
+117,5282,3,1997,501,Dassanetch,1574,2,0,Turkana,1554,1,0,12,1,0,1,1,0,0,1,0,0,0,0,5,5
+117,5282,3,2000,501,Dassanetch,1574,2,0,Turkana,1554,1,0,12,1,0,1,1,0,0,1,0,0,0,0,5,5
+117,5282,3,2005,501,Dassanetch,1574,2,0,Turkana,1554,1,0,12,1,0,1,1,0,0,1,0,0,1,0,5,5
+117,5282,3,2009,501,Dassanetch,1574,2,0,Turkana,1554,1,0,12,1,0,1,1,0,0,1,0,0,0,0,5,5
+117,5282,3,2011,501,Dassanetch,1574,2,0,Turkana,1554,1,0,12,1,0,1,1,0,0,1,0,0,0,0,5,5
+118,5283,1,2006,433,MFDC Front Nord - MD (Mouvement des Forces dÃÂÃÂ©mocratiques de Casamance - Front Nord Magne DiÃÂÃÂ©mÃÂÃÂ©: Movement of the Democratic Forces of the Casamance - Northern Front Magne DiÃÂÃÂ©mÃÂÃÂ© faction),1508,5,0,MFDC - S (Mouvement des Forces dÃÂÃÂ©mocratiques de Casamance - Sadio: Movement of the Democratic Forces of the Casamance - Salif Sadio faction),1509,5,0,55,1,0,0,0,0,0,0,0,1,0,0,5,3
+119,5284,3,2008,625,Misseriya,1904,2,0,Rizeigat Abbala,1536,2,0,22,1,0,0,1,0,0,0,0,0,0,0,5,5
+119,5284,3,2009,625,Misseriya,1904,2,0,Rizeigat Abbala,1536,2,0,22,1,0,0,1,0,0,0,0,0,0,0,5,5
+119,5284,3,2010,625,Misseriya,1904,2,0,Rizeigat Abbala,1536,2,0,22,1,0,0,1,0,0,0,0,0,0,0,5,5
+120,5285,3,2003,520,Mohamed Muse subclan of Abgal clan (Hawiye),1513,4,0,Warsangeli subclan of Abgal clan (Hawiye),1560,2,0,24,1,1,0,0,0,1,0,0,1,0,1,5,5
+121,5286,1,2008,501,MDF (Moorland Defence Forces),1769,5,0,SLDF (Sabaot Land Defence Force),1565,5,0,55,1,0,1,0,0,0,0,0,1,1,1,5,3
+122,5287,3,2006,530,Murle,1514,2,0,Nuer,1519,1,0,12,0,0,1,0,0,0,1,0,0,0,0,5,5
+123,5288,1,2004,475,NDPVF (Niger Delta PeopleÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Volunteer Force),1414,5,0,NDV (Niger Delta Vigilantes),1516,5,0,55,0,1,0,0,0,1,0,0,0,0,1,5,5
+127,5291,3,2006,501,"Nyangatom, Toposa",553002,2,0,Turkana,1554,1,0,12,1,0,1,1,0,0,1,0,0,0,0,5,5
+128,5292,3,1999,520,Ogaden clan (Darod),1522,2,0,Sheikhal clan (Dir),1542,2,0,22,1,0,0,0,0,0,0,0,1,0,0,5,5
+128,5292,3,2002,530,Ogaden clan (Darod),1522,2,0,Sheikhal clan (Dir),1542,2,0,22,1,0,1,0,0,0,1,0,1,0,0,5,3
+129,5293,3,2000,530,Oromo,1523,1,0,Somali (Ethiopia),1545,2,0,12,1,0,0,1,0,0,0,0,1,0,0,5,5
+129,5293,3,2003,530,Oromo,1523,1,0,Somali (Ethiopia),1545,2,0,12,1,0,1,0,0,0,0,0,1,1,0,5,5
+129,5293,3,2005,530,Oromo,1523,1,0,Somali (Ethiopia),1545,2,0,12,1,0,0,0,0,0,0,0,1,0,0,5,5
+130,5294,1,2007,516,Palipehutu-FNL (Parti pour la libÃÂÃÂ©ration du peuple Hutu-Forces nationales de libÃÂÃÂ©ration: Party for the Liberation of the Hutu People-Forces for National Liberation),1278,5,0,Palipehutu-FNL - LP (Parti pour la libÃÂÃÂ©ration du peuple Hutu-Forces nationales de libÃÂÃÂ©ration - Lovers of Peace faction: Party for the Liberation of the Hutu People-Forces for National Liberation - Lovers of Peace faction),1647,5,0,55,0,1,0,0,0,1,0,0,0,0,0,1,3
+131,5295,1,2002,625,PDF (Difaa al-Sha'abi: Popular Defence Force),1526,5,1,SSDF (South Sudan Defence Force),1546,5,0,55,1,1,0,0,0,1,0,0,1,0,0,1,5
+132,5296,3,2003,500,Pian Karimojong,1528,1,0,Pokot,1529,2,0,12,0,0,1,0,0,0,1,0,0,0,0,5,5
+133,5297,3,2003,500,Pokot,1529,2,0,Sabiny,1541,2,0,22,0,0,1,0,0,0,1,0,0,0,0,5,5
+134,5298,1,2004,520,Puntland state of Somalia,1530,5,0,Republic of Somaliland,1535,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,5
+135,5299,1,1998,490,Mayi Mayi,1505,5,0,"RCD (Rassemblement Congolais pour la DÃÂÃÂ©mocratie, Congolese Rally for Democracy)",1270,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,5
+135,5299,1,1999,490,Mayi Mayi,1505,5,0,"RCD (Rassemblement Congolais pour la DÃÂÃÂ©mocratie, Congolese Rally for Democracy)",1270,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,5
+135,5299,1,2000,490,Mayi Mayi,1505,5,0,"RCD (Rassemblement Congolais pour la DÃÂÃÂ©mocratie, Congolese Rally for Democracy)",1270,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,5
+135,5299,1,2002,490,Mayi Mayi,1505,5,0,"RCD (Rassemblement Congolais pour la DÃÂÃÂ©mocratie, Congolese Rally for Democracy)",1270,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,5
+135,5299,1,2003,490,Mayi Mayi,1505,5,0,"RCD (Rassemblement Congolais pour la DÃÂÃÂ©mocratie, Congolese Rally for Democracy)",1270,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,5
+136,5300,1,2002,490,FRF (Forces rÃÂÃÂ©publicaines et federalists: Federalist Republican Forces),1532,5,0,"RCD (Rassemblement Congolais pour la DÃÂÃÂ©mocratie, Congolese Rally for Democracy)",1270,5,0,55,0,1,0,0,0,1,0,0,0,0,1,5,5
+137,5301,1,2003,490,RCD-K-ML,1650,5,0,RCD-N  (Rassemblement Congolais pour la DÃÂÃÂ©mocratie-National: Congolese Rally for Democracy-National),1511,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+138,5302,1,2001,490,RCD-K-ML,1650,5,0,"MLC, RCD-N",549001,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+138,5302,1,2002,490,RCD-K-ML,1650,5,0,"MLC, RCD-N",549001,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+139,5303,3,2007,625,Rizeigat Abbala,1536,2,0,Terjam,1551,1,0,12,1,0,1,1,0,0,0,0,0,1,0,5,3
+140,5304,1,2002,520,RRA (Rahanweyn Resistance Army),1538,5,0,RRA - MH (Rahanweyn Resistance Army - Madobe and Habsade faction),1537,5,0,55,0,1,0,0,0,0,0,1,0,0,5,5,5
+140,5304,1,2003,520,RRA (Rahanweyn Resistance Army),1538,5,0,RRA - MH (Rahanweyn Resistance Army - Madobe and Habsade faction),1537,5,0,55,0,1,0,0,0,0,0,1,0,0,5,5,5
+140,5304,1,2005,520,RRA (Rahanweyn Resistance Army),1538,5,0,RRA - MH (Rahanweyn Resistance Army - Madobe and Habsade faction),1537,5,0,55,1,0,1,0,0,0,0,0,1,1,5,5,3
+141,5305,3,2004,520,Sa'ad subclan of Habar Gidir clan (Hawiye),1540,2,0,Suleiman subclan of Habar Gidir clan (Hawiye),1548,2,0,22,1,0,0,1,0,0,0,0,1,0,5,5,3
+141,5305,3,2005,520,Sa'ad subclan of Habar Gidir clan (Hawiye),1540,2,0,Suleiman subclan of Habar Gidir clan (Hawiye),1548,2,0,22,1,0,0,1,0,0,0,0,1,0,5,5,3
+141,5305,3,2006,520,Sa'ad subclan of Habar Gidir clan (Hawiye),1540,2,0,Suleiman subclan of Habar Gidir clan (Hawiye),1548,2,0,22,1,0,0,1,0,0,0,0,1,0,5,5,3
+141,5305,3,2011,520,Sa'ad subclan of Habar Gidir clan (Hawiye),1540,2,0,Suleiman subclan of Habar Gidir clan (Hawiye),1548,2,0,22,1,0,0,0,0,0,0,0,1,0,0,5,5
+143,5307,1,2005,625,SLM/A (Sudan Liberation Movement/Army),1316,5,0,SLM/A ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ MM (Sudan Liberation Movement/Army ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ Minni Minawi faction),1318,5,0,55,1,1,0,0,0,1,0,0,1,0,0,5,5
+143,5307,1,2006,625,SLM/A (Sudan Liberation Movement/Army),1316,5,0,SLM/A ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ MM (Sudan Liberation Movement/Army ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ Minni Minawi faction),1318,5,0,55,1,1,0,0,0,1,0,0,1,0,0,5,5
+144,5308,3,2004,520,Rer Ahmad subclan (Hawiye),1543,4,0,Hawarsame Rer Hasan and Habar Ya'qub subclan of Marehan clan (Darod),1544,4,0,44,1,1,0,0,0,1,0,0,1,0,0,5,3
+147,5310,3,2003,520,Sa'ad subclan of Habar Gidir clan (Hawiye),1540,2,0,Saleban-Abdalla subclan of Majerteen clan (Darod),2006,4,0,24,1,0,0,1,0,0,0,0,0,0,0,1,3
+148,5311,3,2006,483,Tama,1492,3,1,Zaghawa,1566,1,1,13,1,0,0,0,0,0,0,0,1,0,0,5,5
+148,5311,3,2007,483,Tama,1492,3,1,Zaghawa,1566,1,1,13,1,0,0,0,0,0,0,0,1,0,0,5,5
+150,5313,3,1992,625,Toposa,1553,2,0,Turkana,1554,1,0,12,0,0,1,0,0,0,1,0,0,0,0,5,5
+150,5313,3,2008,501,Toposa,1553,2,0,Turkana,1554,1,0,12,1,0,1,1,0,0,1,0,0,0,1,5,5
+150,5313,3,2011,501,Toposa,1553,2,0,Turkana,1554,1,0,12,1,0,1,1,0,0,1,0,0,0,1,5,5
+151,5314,3,1995,501,Pokot,1529,2,0,Turkana,1554,1,0,12,1,0,1,1,0,0,1,0,0,0,0,5,5
+151,5314,3,1999,501,Pokot,1529,2,0,Turkana,1554,1,0,12,1,0,1,1,0,0,1,0,1,0,5,5,5
+151,5314,3,2005,501,Pokot,1529,2,0,Turkana,1554,1,0,12,1,0,1,1,0,0,1,0,1,0,5,5,5
+151,5314,3,2006,501,Pokot,1529,2,0,Turkana,1554,1,0,12,1,0,1,1,0,0,1,0,1,0,5,5,5
+151,5314,3,2008,501,Pokot,1529,2,0,Turkana,1554,1,0,12,1,0,1,1,0,0,1,0,1,0,5,5,5
+151,5314,3,2010,501,Pokot,1529,2,0,Turkana,1554,1,0,12,1,0,1,1,0,0,1,0,1,0,5,5,5
+152,5315,1,2001,520,USC/SSA (United Somali Congress/Somali Salvation Alliance),1352,5,0,"""USC/SSA - OMF (United Somali Congress/Somali Salvation Alliance - Omar Mohamed Mohamud """"Finish"""" faction)""",1559,5,0,55,0,1,0,0,0,0,0,1,0,0,5,5,5
+152,5315,1,2002,520,USC/SSA (United Somali Congress/Somali Salvation Alliance),1352,5,0,"""USC/SSA - OMF (United Somali Congress/Somali Salvation Alliance - Omar Mohamed Mohamud """"Finish"""" faction)""",1559,5,0,55,0,1,0,0,0,0,0,1,0,0,5,5,5
+152,5315,1,2003,520,USC/SSA (United Somali Congress/Somali Salvation Alliance),1352,5,0,"""USC/SSA - OMF (United Somali Congress/Somali Salvation Alliance - Omar Mohamed Mohamud """"Finish"""" faction)""",1559,5,0,55,0,1,0,0,0,0,0,1,0,0,5,5,5
+153,5316,3,2008,625,Ma'aliyah,1498,2,0,Zaghawa,1566,1,0,12,1,0,0,1,0,0,0,0,0,0,0,1,5
+164,5327,1,1998,615,GIA - El Ahd Battalion (Groupe islamique armÃÂÃÂ©e: Armed Islamic Group - Covenant Battalion),1770,5,0,GIA - El Khadra Battalion (Groupe islamique armÃÂÃÂ©e: Armed Islamic Group - Green Battalion),1905,5,0,55,0,0,1,0,0,0,NA,0,0,NA,0,0,0
+165,5328,1,1998,615,GIA - El Forkane,1771,5,0,GIA - El Khadra Battalion (Groupe islamique armÃÂÃÂ©e: Armed Islamic Group - Green Battalion),1905,5,0,55,0,0,1,0,0,0,NA,0,0,NA,0,0,0
+166,5329,1,1995,615,AIS (ArmÃÂÃÂ©e Islamique du Salut: Islamic Salvation Army),1389,5,0,GIA (Groupe islamique armÃÂÃÂ©e: Armed Islamic Group),1390,5,0,55,1,0,1,0,0,0,0,0,1,1,5,5,3
+166,5329,1,1997,615,AIS (ArmÃÂÃÂ©e Islamique du Salut: Islamic Salvation Army),1389,5,0,GIA (Groupe islamique armÃÂÃÂ©e: Armed Islamic Group),1390,5,0,55,0,0,1,0,0,0,0,0,0,1,5,5,3
+166,5329,1,1998,615,AIS (ArmÃÂÃÂ©e Islamique du Salut: Islamic Salvation Army),1389,5,0,GIA (Groupe islamique armÃÂÃÂ©e: Armed Islamic Group),1390,5,0,55,0,0,1,0,0,0,0,0,0,1,5,5,3
+170,5332,1,2000,516,ALiR (ArmÃÂÃÂ©e pour la LibÃÂÃÂ©ration du Rwanda: Army for the Liberation of Rwanda),2013,5,0,Palipehutu-FNL (Parti pour la libÃÂÃÂ©ration du peuple Hutu-Forces nationales de libÃÂÃÂ©ration: Party for the Liberation of the Hutu People-Forces for National Liberation),1278,5,0,55,0,0,1,0,0,0,0,0,0,1,0,1,3
+171,5333,3,1998,471,Bafanji,1772,4,0,Balikumbat,1773,4,0,44,1,0,0,0,0,0,0,0,1,0,5,5,5
+172,5334,3,1991,471,Banya,1774,3,0,"Foulbe, Hausa",547101,2,0,23,0,0,1,0,0,0,0,0,0,1,0,1,3
+173,5335,3,1992,471,Choa Arab,1777,2,0,Kotoko,1776,3,0,23,1,1,0,1,0,1,0,0,0,0,5,5,5
+173,5335,3,1993,471,Choa Arab,1777,2,0,Kotoko,1776,3,0,23,1,1,0,1,0,1,0,0,0,0,5,5,5
+173,5335,3,1994,471,Choa Arab,1777,2,0,Kotoko,1776,3,0,23,1,1,0,1,0,1,0,0,0,0,5,5,5
+176,5337,3,2000,483,Khozam,1781,2,0,Oulad Rachid,1780,2,0,22,1,0,0,1,0,0,0,0,0,0,0,1,5
+180,5341,1,1998,581,MPA/Republic of Anjouan (Mouvement populaire anjouanais: Anjouan People's Movement),1397,5,0,MPA - SOC (Mouvement populaire anjouanais - Said Omar Chamassi faction),1782,5,0,55,0,1,0,0,0,1,0,0,0,0,5,5,3
+181,5342,1,1997,490,AFDL (Alliance des Forces dÃÂÃÂ©mocratiques pour la libÃÂÃÂ©ration du Congo-Kinshasa: Alliance of Democratic Forces for the Liberation of Congo-Kinshasa),1268,5,0,ALiR (ArmÃÂÃÂ©e pour la LibÃÂÃÂ©ration du Rwanda: Army for the Liberation of Rwanda),2013,5,0,55,0,0,1,0,0,0,0,0,0,1,0,5,5
+182,5343,1,1997,490,AFDL (Alliance des Forces dÃÂÃÂ©mocratiques pour la libÃÂÃÂ©ration du Congo-Kinshasa: Alliance of Democratic Forces for the Liberation of Congo-Kinshasa),1268,5,0,Mayi Mayi,1505,5,0,55,1,0,0,0,0,0,0,0,1,0,0,5,3
+183,5344,3,1993,490,Hunde,1783,3,0,Hutu,1784,4,0,34,1,1,0,0,0,1,0,0,1,0,0,5,5
+183,5344,3,1995,490,Hunde,1783,3,0,Hutu,1784,4,0,34,1,1,0,0,0,1,0,0,1,0,0,5,5
+183,5344,3,1996,490,Hunde,1783,3,0,Hutu,1784,4,0,34,1,1,0,0,0,1,0,0,1,0,0,5,5
+184,5345,3,1993,490,Banyarwanda,1958,4,0,"Hunde, Nyanga",549016,3,0,34,1,1,0,0,0,1,0,0,1,0,0,5,5
+184,5345,3,1994,490,Banyarwanda,1958,4,0,"Hunde, Nyanga",549016,3,0,34,1,1,0,0,0,1,0,0,1,0,0,5,5
+188,5346,1,2000,490,"CNDD-FDD, Mayi-Mayi",549010,5,0,"RCD (Rassemblement Congolais pour la DÃÂÃÂ©mocratie, Congolese Rally for Democracy)",1270,5,0,55,1,0,0,0,0,0,0,0,1,0,0,1,5
+189,5611,1,1999,490,"ALiR, CNDD-FDD , Mayi Mayi",549024,5,0,RCD,1270,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,2
+189,5611,1,2000,490,"ALiR, CNDD-FDD , Mayi Mayi",549024,5,0,RCD,1270,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,2
+190,5347,1,2000,490,RCD-ML (Rassemblement Congolais pour la DÃÂÃÂ©mocratie-Mouvement de liberation: Congolese Rally for Democracy-Liberation Movement),1271,5,0,RCD-K-ML (Rassemblement Congolais pour la DÃÂÃÂ©mocratie-Kisangani-Mouvement de libÃÂÃÂ©ration: Congolese Rally for Democracy-Kisangani-Liberation Movement),1650,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+191,5348,1,1999,490,Mayi Mayi,1505,5,0,RCD-ML (Rassemblement Congolais pour la DÃÂÃÂ©mocratie-Mouvement de liberation: Congolese Rally for Democracy-Liberation Movement),1271,5,0,55,1,0,0,0,0,0,0,0,1,0,0,1,5
+193,5349,3,1991,530,Amhara,1785,3,0,Oromo,1523,1,0,13,1,1,0,0,0,1,0,0,1,0,0,5,3
+193,5349,3,2000,530,Amhara,1785,3,0,Oromo,1523,1,0,13,1,0,0,0,0,0,0,0,1,0,1,5,5
+193,5349,3,2001,530,Amhara,1785,3,0,Oromo,1523,1,0,13,1,0,0,0,0,0,0,0,1,0,1,5,5
+194,5350,3,1992,530,Arbore,1786,1,0,Borana,1445,2,0,12,0,0,1,0,0,0,1,0,0,0,0,5,5
+195,5351,3,1992,530,Borana,1445,2,0,Degodia,1787,2,0,22,1,0,1,1,0,0,1,0,1,0,0,5,5
+195,5351,3,1998,530,Borana,1445,2,0,Degodia,1787,2,0,22,1,0,1,1,0,0,1,0,1,1,1,5,5
+195,5351,3,2000,530,Borana,1445,2,0,Degodia,1787,2,0,22,1,0,1,1,0,0,1,0,1,0,0,1,3
+197,5352,3,2000,530,Borana,1445,2,0,Garre,1963,2,0,22,1,0,1,1,0,0,1,0,1,0,0,5,5
+197,5352,3,2001,530,Borana,1445,2,0,Garre,1963,2,0,22,1,0,1,1,0,0,1,0,1,0,0,5,5
+197,5352,3,2009,530,Borana,1445,2,0,Garre,1963,2,0,22,1,0,0,1,0,0,0,0,1,0,0,5,3
+198,5353,3,2000,530,"Borana, Guji",553001,2,0,Garre,1963,2,0,22,1,0,1,1,0,0,1,0,1,0,0,5,5
+198,5353,3,2001,530,"Borana, Guji",553001,2,0,Garre,1963,2,0,22,1,0,1,1,0,0,1,0,1,0,0,5,5
+199,5354,3,2001,530,Derashe,1788,3,0,Zeyle,1789,1,0,13,1,0,0,0,0,0,0,0,1,0,0,1,2
+200,5355,3,1995,530,Gedeo,1790,3,0,Guji,1467,1,0,13,1,0,0,0,0,0,0,0,1,0,5,5,5
+200,5355,3,1998,530,Gedeo,1790,3,0,Guji,1467,1,0,13,1,0,0,0,0,0,0,0,1,0,5,5,3
+202,5356,3,1992,530,Rer Liban subclan (Issaq),1791,1,0,Rer Samatar subclan of Habr Awal (Issaq),1792,1,0,11,1,0,1,1,0,0,1,0,0,0,5,1,5
+205,5359,3,1991,452,Gonja,1944,3,1,"Konkomba, Nawuri",545202,3,1,33,1,1,0,0,0,0,0,1,1,0,0,5,5
+205,5359,3,1992,452,Gonja,1944,3,1,"Konkomba, Nawuri",545202,3,1,33,1,1,0,0,0,0,0,1,1,0,0,5,5
+208,5360,3,1994,452,"Dagomba, Gonja, Nanumba",545201,3,1,Konkomba,1946,3,1,33,1,1,1,0,0,0,0,1,1,1,0,5,3
+208,5360,3,1995,452,"Dagomba, Gonja, Nanumba",545201,3,1,Konkomba,1946,3,1,33,1,1,1,0,0,0,0,1,1,1,0,5,3
+209,5361,3,2000,438,Torma,1955,3,1,Torma Manian,1956,3,1,33,1,0,0,0,0,0,0,0,1,0,0,5,3
+220,5371,3,2000,501,Ajuran,1793,2,0,Garre,1963,2,0,22,1,1,1,1,0,1,1,0,1,0,5,5,5
+221,5372,3,2001,501,Borana,1445,2,0,Samburu,1794,2,0,22,1,0,1,1,0,0,1,0,0,0,0,1,3
+224,5373,3,1992,501,Kalenjin,1903,2,0,Luhya,1797,3,0,23,1,1,1,0,0,1,1,0,1,0,0,5,5
+224,5373,3,1993,501,Kalenjin,1903,2,0,Luhya,1797,3,0,23,1,1,1,0,0,1,1,0,1,0,0,5,5
+225,5374,3,1992,501,Kalenjin,1903,2,0,"Luo, Kisii",550104,3,0,23,1,0,1,0,0,0,1,0,1,0,0,5,5
+226,5375,3,1997,501,Kisii,1796,3,0,Maasai,1909,2,0,23,1,0,1,1,0,0,1,0,0,0,0,5,5
+227,5376,3,1993,501,Kikuyu,1795,3,0,Maasai,1909,2,0,23,1,0,0,1,0,0,0,0,1,0,5,5,5
+228,5377,3,2001,501,Marakwet,1798,2,0,Pokot,1529,2,0,22,1,0,1,1,0,0,1,0,0,0,0,5,5
+230,5378,3,1998,501,Nandi,1799,3,0,Pokot,1529,2,0,23,1,0,1,0,0,0,1,0,1,0,0,5,5
+232,5379,3,2001,501,"Orma, Wardei",550103,2,0,Pokomo,1802,3,0,23,1,0,0,1,0,0,0,0,0,0,5,5,5
+233,5380,3,1996,501,"Pokot, Samburu",550102,2,0,Turkana,1554,1,0,12,0,0,1,0,0,0,1,0,0,0,0,1,5
+238,5385,1,1990,450,INPFL (Independent National Patriotic Front of Liberia),1359,5,0,NPFL (National Patriotic Front of Liberia),1358,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+239,5386,1,1994,450,LPC (Liberia Peace Council),1496,5,0,NPFL (National Patriotic Front of Liberia),1358,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+239,5386,1,1995,450,LPC (Liberia Peace Council),1496,5,0,NPFL (National Patriotic Front of Liberia),1358,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+240,5387,1,1991,450,NPFL (National Patriotic Front of Liberia),1358,5,0,ULIMO (United Liberation Movement of Liberia for Democracy),1558,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+240,5387,1,1992,450,NPFL (National Patriotic Front of Liberia),1358,5,0,ULIMO (United Liberation Movement of Liberia for Democracy),1558,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+241,5388,1,1996,450,"NPFL (National Patriotic Front of Liberia), ULIMO  - K (United Liberation Movement of Liberia for Democracy - Alhaji Kromah faction)",545001,5,0,"AFL, LPC, ULIMO-J",545002,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+242,5389,1,1994,450,ULIMO - J (United Liberation Movement of Liberia for Democracy - Roosevelt Johnson faction),1556,5,0,ULIMO - K (United Liberation Movement of Liberia for Democracy - Alhaji Kromah faction),1557,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+243,5390,1,1994,432,"ARLA, FIAA, FPLA",543201,5,0,MPA (Mouvement populaire de l'Azaouad: Azawad People's Movement),1373,5,0,55,0,0,1,0,0,0,NA,0,0,NA,0,0,0
+244,5391,3,1997,432,Fulani,1461,2,1,Touareg,1806,2,0,22,1,0,0,1,0,0,0,0,0,0,0,1,3
+246,5393,1,1991,541,Naparama,1807,5,1,Renamo (ResistÃÂÃÂªncia nacional moÃÂÃÂ§ambicana: Mozambican National Resistance),1347,5,0,55,0,0,1,0,0,0,0,0,0,1,0,5,5
+249,5396,3,1993,475,Adoni,1808,4,0,Ogoni,1910,4,1,44,1,0,0,0,0,0,0,0,1,0,3,5,5
+251,5397,3,2001,475,Azara,1811,4,1,Tiv,1911,3,1,34,1,0,0,0,0,0,0,0,1,0,0,5,5
+252,5398,3,2000,475,Efik,1812,4,1,Ibibio,1813,3,1,34,1,0,1,0,0,0,0,0,1,1,0,1,3
+253,5399,3,1999,475,Fulani,1461,2,1,Wurukum,1814,3,1,23,1,0,0,1,0,0,0,0,0,0,0,1,5
+254,5400,3,2001,475,"Afisare, Anaguta, Birom",547510,3,1,"Fulani, Hausa",547520,2,1,23,1,0,1,0,1,0,0,0,1,0,1,5,3
+254,5400,3,2008,475,"Afisare, Anaguta, Birom",547510,3,1,"Fulani, Hausa",547520,2,1,23,1,1,1,0,1,1,0,0,1,0,0,5,5
+255,5401,3,1999,475,Hausa,1462,2,1,Ninzam,1816,4,1,24,0,1,1,0,1,0,0,1,0,0,0,1,3
+256,5402,3,1997,475,Ife,1817,3,1,Modakeke,1818,4,1,34,1,1,0,0,0,1,0,0,1,0,0,5,5
+256,5402,3,1998,475,Ife,1817,3,1,Modakeke,1818,4,1,34,1,1,0,0,0,1,0,0,1,0,0,5,5
+256,5402,3,2000,475,Ife,1817,3,1,Modakeke,1818,4,1,34,1,1,0,0,0,1,0,0,1,0,0,5,5
+257,5403,3,1998,475,Ijaw,1477,4,0,Ilaje,1819,4,0,44,1,0,0,0,0,0,0,0,1,0,1,5,5
+257,5403,3,1999,475,Ijaw,1477,4,0,Ilaje,1819,4,0,44,1,0,0,0,0,0,0,0,1,0,1,5,5
+258,5404,3,1998,475,Ijaw,1477,4,0,Urhobo,1820,3,0,34,0,1,0,0,0,1,0,0,0,0,0,1,3
+259,5405,3,1991,475,Jukun,1821,3,1,Tiv,1911,3,1,33,1,1,0,0,0,1,0,0,1,0,1,5,5
+259,5405,3,1992,475,Jukun,1821,3,1,Tiv,1911,3,1,33,1,1,0,0,0,1,0,0,1,0,1,5,5
+259,5405,3,2001,475,Jukun,1821,3,1,Tiv,1911,3,1,33,1,1,0,0,0,1,0,0,1,0,0,5,5
+260,5406,3,1996,475,Fulani,1461,2,1,Karimjo,1822,4,0,24,0,0,1,0,0,0,0,0,0,1,0,1,3
+261,5407,3,2001,475,Kwala,1823,4,0,Tiv,1911,3,1,34,0,0,1,0,0,0,0,0,0,1,0,1,3
+262,5408,3,1992,475,Odtikas,1824,4,0,Ogoni,1910,4,1,44,0,0,1,0,0,0,0,0,0,1,0,1,3
+263,5409,3,1994,475,Ndoki,1825,4,0,Ogoni,1910,4,1,44,1,0,0,0,0,0,0,0,1,0,0,1,5
+264,5410,3,1999,475,Eleme,1826,3,1,Okrika,1912,4,0,34,1,1,0,0,0,1,0,0,1,0,0,1,5
+265,5411,3,1993,475,Ogoni,1910,4,1,Okrika,1912,4,0,44,1,0,1,0,0,0,0,0,1,1,1,5,3
+266,5412,3,1998,475,Igbo,1476,4,1,Tiv,1911,3,1,34,0,0,1,0,0,0,0,0,0,1,0,5,3
+267,5413,3,1999,475,Aguleri,1828,4,0,Umuleri,1827,4,1,44,1,0,0,0,0,0,0,0,1,0,0,5,5
+268,5414,3,1999,475,"Ijaw, Urhobo",547501,4,0,Itsekiri,1480,3,1,34,1,1,0,0,0,1,0,0,1,0,0,5,5
+279,5423,3,1996,520,Abdalle subclan of Habar Awal clan (Isaaq),1829,4,0,Aidagalla subclan of Habar Garhadjis clan (Isaaq),1830,4,0,44,0,0,1,0,0,0,NA,0,0,NA,0,0,0
+280,5424,3,2000,520,Abdalleh-Agon-Yar subclan of Abgal clan (Hawiye),1831,2,0,Eli-Agon-Yar subclan of Abgal clan (Hawiye),1832,2,0,22,0,0,1,0,0,0,0,0,0,1,0,5,3
+281,5425,3,2001,520,Abdulleh-Galmaha subclan of Abgal clan (Hawiye),1833,2,0,Kabaloh subclan of Abgal clan (Hawiye),1834,2,0,22,1,0,0,1,0,0,0,0,0,0,0,5,3
+282,5426,3,1990,520,Abgal clan (Hawiye),1907,2,0,Galgalo,1835,4,0,24,0,0,1,0,0,0,0,0,0,1,1,1,3
+283,5427,1,2000,520,SPM (Somali Patriotic Movement),1351,5,0,Forces of Omar Jess,1837,5,0,55,1,0,0,0,0,0,0,0,1,0,0,1,3
+284,5428,3,2001,520,Ayr subclan of Habar Gidir clan (Hawiye),1838,4,0,Sa'ad subclan of Habar Gidir clan (Hawiye),1540,2,0,25,1,1,1,0,0,1,0,0,1,1,5,5,3
+285,5429,3,1999,520,Abdalle-Aroneh subclan of Abgal clan (Hawiye),1840,2,0,Eli-Omar subclan of Abgal clan (Hawiye),1839,2,0,22,1,0,0,1,0,0,0,0,0,0,5,1,3
+286,5430,1,2001,520,Forces of Abdirizak Bihi,1841,5,0,Forces of Ahmed Sheikh Buraleh,1842,5,0,55,0,0,1,0,0,0,NA,0,0,NA,0,0,0
+287,5431,1,1999,520,Forces of Hussein Ali Ahmed,1843,5,0,USC/SSA,1352,5,0,55,0,0,1,0,0,0,0,0,0,1,5,5,3
+288,5432,1,1994,520,Forces of Abdurahman Ahmed Ali 'Tur',1846,5,0,Republic of Somaliland,1535,5,0,55,1,1,0,0,0,1,0,0,1,0,5,5,3
+288,5432,1,1995,520,Forces of Abdurahman Ahmed Ali 'Tur',1846,5,0,Republic of Somaliland,1535,5,0,55,1,1,0,0,0,1,0,0,1,0,5,5,3
+289,5433,3,2000,520,Garre subclan of Digil clan (Digil-Mirifle),1466,1,0,Jiddo subclan of Digil clan (Digil-Mirifle),1488,3,0,13,1,0,1,0,0,0,1,0,1,0,0,5,3
+289,5433,3,2002,520,Garre subclan of Digil clan (Digil-Mirifle),1466,1,0,Jiddo subclan of Digil clan (Digil-Mirifle),1488,3,0,13,1,0,0,0,0,0,0,0,1,0,0,5,3
+290,5434,3,1994,520,Habar Gidir clan (Hawiye),1914,4,0,Xawaadle clan (Hawiye),1758,2,0,25,1,0,0,0,0,0,0,0,1,0,0,1,3
+291,5435,3,1993,520,Habar Gidir clan (Hawiye),1914,4,0,Marehan subclan of Sede clan (Darod),1501,2,0,25,0,0,1,0,0,0,NA,0,0,NA,0,0,0
+291,5435,3,1995,520,Habar Gidir clan (Hawiye),1914,4,0,Marehan subclan of Sede clan (Darod),1501,2,0,25,0,0,1,0,0,0,NA,0,0,NA,0,0,0
+293,5436,3,2000,520,Galje'el clan (Hawiye),1464,2,0,Xawaadle clan (Hawiye),1758,2,0,22,1,0,1,0,0,0,0,0,1,1,0,5,3
+294,5437,1,1992,520,Republic of Somaliland,1535,5,0,SNM - 'Calan cas' (Somali National Movement - 'Calan cas' faction: Somali National Movement - Red flag faction),1990,5,0,55,1,0,0,0,0,0,0,0,1,0,0,5,3
+298,5438,1,1992,520,SNF (Somali National Front),1918,5,0,USC/SNA (United Somali Congress/Somali National Alliance),1353,5,0,55,1,1,0,0,0,1,0,0,1,0,1,5,3
+298,5438,1,1993,520,SNF (Somali National Front),1918,5,0,USC/SNA (United Somali Congress/Somali National Alliance),1353,5,0,55,1,1,0,0,0,1,0,0,1,0,1,5,3
+299,5439,1,1999,520,SNF - MSAB (Somali National Front - Mohamed Sheikh Ali Buraleh faction),1851,5,0,SNF (Somali National Front),1918,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,3
+300,5440,1,1992,520,SPM (Somali Patriotic Movement),1351,5,0,SPM/SNA (Somali Patriotic Movement/Somali National Alliance),1852,5,0,55,1,0,0,0,0,0,0,0,1,0,1,5,3
+300,5440,1,1993,520,SPM (Somali Patriotic Movement),1351,5,0,SPM/SNA (Somali Patriotic Movement/Somali National Alliance),1852,5,0,55,1,0,0,0,0,0,0,0,1,0,1,5,3
+300,5440,1,1994,520,SPM (Somali Patriotic Movement),1351,5,0,SPM/SNA (Somali Patriotic Movement/Somali National Alliance),1852,5,0,55,1,0,0,0,0,0,0,0,1,0,1,5,3
+301,5441,1,1992,520,AIAI,1394,5,0,SSDF (Somali Salvation Democratic Front),1349,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,3
+302,5442,1,1999,520,DSA (Digil Salvation Army),1853,5,0,USC/SNA (United Somali Congress/Somali National Alliance),1353,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,3
+303,5443,1,1995,520,RRA (Rahanweyn Resistance Army),1538,5,0,USC/SNA (United Somali Congress/Somali National Alliance),1353,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,3
+303,5443,1,1996,520,RRA (Rahanweyn Resistance Army),1538,5,0,USC/SNA (United Somali Congress/Somali National Alliance),1353,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,3
+303,5443,1,1997,520,RRA (Rahanweyn Resistance Army),1538,5,0,USC/SNA (United Somali Congress/Somali National Alliance),1353,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,3
+303,5443,1,1998,520,RRA (Rahanweyn Resistance Army),1538,5,0,USC/SNA (United Somali Congress/Somali National Alliance),1353,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,3
+303,5443,1,1999,520,RRA (Rahanweyn Resistance Army),1538,5,0,USC/SNA (United Somali Congress/Somali National Alliance),1353,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,3
+306,5444,1,1993,520,SSDF (Somali Salvation Democratic Front),1349,5,0,USC/SNA (United Somali Congress/Somali National Alliance),1353,5,0,55,0,1,0,0,0,1,0,0,0,0,0,1,2
+307,5445,1,1995,520,USC/SNA (United Somali Congress/Somali National Alliance),1353,5,0,USC/SNA - OA (United Somali Congress/Somali National Alliance - Osman Atto faction),1854,5,0,55,1,1,0,0,0,1,0,0,1,0,5,5,3
+307,5445,1,1996,520,USC/SNA (United Somali Congress/Somali National Alliance),1353,5,0,USC/SNA - OA (United Somali Congress/Somali National Alliance - Osman Atto faction),1854,5,0,55,1,1,0,0,0,1,0,0,1,0,5,5,3
+307,5445,1,1997,520,USC/SNA (United Somali Congress/Somali National Alliance),1353,5,0,USC/SNA - OA (United Somali Congress/Somali National Alliance - Osman Atto faction),1854,5,0,55,1,1,0,0,0,1,0,0,1,0,5,5,3
+308,5446,1,1995,520,USC/SNA (United Somali Congress/Somali National Alliance),1353,5,0,USC-PM (United Somali Congress-Peace Movement),1855,5,0,55,1,0,0,0,0,0,0,0,1,0,1,5,5
+309,5447,1,1993,560,ANC - 'Greens' (African National Congress - 'Greens' faction),1856,5,0,ANC - 'Reds' (African National Congress - 'Reds' faction),1857,5,0,55,0,1,1,0,0,1,0,0,0,1,0,5,3
+310,5448,2,1990,560,Supporters of ANC (African National Congress),1971,5,0,Supporters of AZAPO (Azanian People's Organization),1858,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,3
+311,5449,1,1996,560,CATA (the Cape Amalgamated Taxi Association),1860,5,0,Codeta (Cape Organization for a Democratic Taxi Association),1859,5,0,55,0,0,1,0,0,0,0,0,0,1,0,1,3
+312,5450,2,1989,560,Supporters of ANC (African National Congress),1971,5,0,Supporters of IFP (Inkatha Freedom Party),1475,5,0,55,1,1,0,0,0,1,0,0,1,0,0,5,2
+312,5450,2,1990,560,Supporters of ANC (African National Congress),1971,5,0,Supporters of IFP (Inkatha Freedom Party),1475,5,0,55,1,1,0,0,0,1,0,0,1,0,0,5,2
+312,5450,2,1991,560,Supporters of ANC (African National Congress),1971,5,0,Supporters of IFP (Inkatha Freedom Party),1475,5,0,55,1,1,0,0,0,1,0,0,1,0,0,5,2
+312,5450,2,1992,560,Supporters of ANC (African National Congress),1971,5,0,Supporters of IFP (Inkatha Freedom Party),1475,5,0,55,1,1,0,0,0,1,0,0,1,0,0,5,2
+312,5450,2,1993,560,Supporters of ANC (African National Congress),1971,5,0,Supporters of IFP (Inkatha Freedom Party),1475,5,0,55,1,1,0,0,0,1,0,0,1,0,0,5,2
+312,5450,2,1994,560,Supporters of ANC (African National Congress),1971,5,0,Supporters of IFP (Inkatha Freedom Party),1475,5,0,55,1,1,0,0,0,1,0,0,1,0,0,5,2
+312,5450,2,1995,560,Supporters of ANC (African National Congress),1971,5,0,Supporters of IFP (Inkatha Freedom Party),1475,5,0,55,1,1,0,0,0,1,0,0,1,0,0,5,2
+312,5450,2,1996,560,Supporters of ANC (African National Congress),1971,5,0,Supporters of IFP (Inkatha Freedom Party),1475,5,0,55,1,1,0,0,0,1,0,0,1,0,0,5,2
+313,5451,2,1989,560,Supporters of IFP (Inkatha Freedom Party),1475,5,0,Supporters of UDF (United Democratic Front),1861,5,0,55,1,1,0,0,0,1,0,0,1,0,0,5,2
+313,5451,2,1990,560,Supporters of IFP (Inkatha Freedom Party),1475,5,0,Supporters of UDF (United Democratic Front),1861,5,0,55,1,1,0,0,0,1,0,0,1,0,0,5,2
+314,5452,3,1993,560,Mangweni clan,1862,4,0,Mgodini clan,1863,4,0,44,1,0,0,0,0,0,0,0,1,0,0,1,3
+315,5453,2,1998,560,Supporters of ANC (African National Congress),1971,5,0,Supporters of UDM (United Democratic Movement),1864,5,0,55,0,1,0,0,0,1,0,0,0,0,0,1,2
+316,5454,3,1996,560,NUM (National Union of Mineworkers),1866,4,0,Uwusa (United Workers' Union of South Africa),1865,4,0,44,0,0,1,0,0,0,0,0,0,1,0,5,2
+317,5455,3,1991,560,"Lagunya (Langa, Guguletu and Nyanga Taxi Association)",1868,4,0,Webta (Western Cape Black Taxi Association),1867,4,0,44,0,0,1,0,0,0,0,0,0,1,0,1,5
+320,5458,3,1993,625,Awlad Omran clan,1869,2,0,Awlad al-Zuid clan,1919,2,0,22,0,0,1,0,0,0,0,0,0,1,0,1,3
+321,5459,3,2001,625,Awlad Zeid,1972,2,0,Zaghawa,1566,1,0,12,1,0,1,1,0,0,1,0,0,0,1,1,5
+322,5460,3,1997,625,Dinka,1452,2,0,Nuer,1519,1,0,12,1,1,1,1,0,0,1,1,0,1,0,1,1
+322,5460,3,2010,625,Dinka,1452,2,0,Nuer,1519,1,0,12,1,0,1,1,0,0,1,0,0,0,0,5,5
+322,5460,3,2011,625,Dinka,1452,2,0,Nuer,1519,1,0,12,1,0,1,1,0,0,1,0,0,0,0,5,5
+323,5461,3,1993,625,Jikany Nuer,1870,2,0,Lou Nuer,1567,2,0,22,1,0,1,1,0,0,1,0,0,0,0,1,5
+323,5461,3,2009,625,Jikany Nuer,1870,2,0,Lou Nuer,1567,2,0,22,1,0,1,0,0,0,1,0,1,0,0,1,5
+324,5462,3,1998,625,Masalit,1871,2,0,Rizeigat Abbala,1536,2,0,22,1,1,0,1,0,1,0,0,0,0,0,5,5
+324,5462,3,1999,625,Masalit,1871,2,0,Rizeigat Abbala,1536,2,0,22,1,1,0,1,0,1,0,0,0,0,0,5,5
+325,5463,3,1996,625,Rizeigat Abbala,1536,2,0,Zaghawa,1566,1,0,12,1,1,0,1,0,1,0,0,0,0,0,5,5
+326,5464,3,1989,625,"Beni Halba Baggara, Salamat Baggara",562501,2,0,Fur,1874,3,0,23,1,1,0,1,0,1,0,0,0,0,0,1,5
+327,5465,1,1993,625,SPLM/A (Sudan People's Liberation Movement/Army),1312,5,0,SPLM/A ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ AH (Sudan People's Liberation Movement/Army ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ  Abd al-Aziz al-Hululi faction),1875,5,0,55,0,1,0,0,0,1,0,0,0,0,0,1,3
+328,5466,1,1992,625,SPLM/A (Sudan People's Liberation Movement/Army),1312,5,0,SPLM/A ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ WN (Sudan People's Liberation Movement/Army ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ William Nyuon faction),1876,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+328,5466,1,1993,625,SPLM/A (Sudan People's Liberation Movement/Army),1312,5,0,SPLM/A ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ WN (Sudan People's Liberation Movement/Army ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ William Nyuon faction),1876,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+329,5467,1,1991,625,SPLM/A (Sudan People's Liberation Movement/Army),1312,5,0,SSDF (Southern Sudan Defence Force),1546,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,3
+329,5467,1,1992,625,SPLM/A (Sudan People's Liberation Movement/Army),1312,5,0,SSDF (Southern Sudan Defence Force),1546,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,3
+329,5467,1,1993,625,SPLM/A (Sudan People's Liberation Movement/Army),1312,5,0,SSDF (Southern Sudan Defence Force),1546,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,3
+329,5467,1,1994,625,SPLM/A (Sudan People's Liberation Movement/Army),1312,5,0,SSDF (Southern Sudan Defence Force),1546,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,3
+329,5467,1,1997,625,SPLM/A (Sudan People's Liberation Movement/Army),1312,5,0,SSDF (Southern Sudan Defence Force),1546,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+329,5467,1,2002,625,SPLM/A (Sudan People's Liberation Movement/Army),1312,5,0,SSDF (Southern Sudan Defence Force),1546,5,0,55,0,1,0,0,0,1,0,0,0,0,0,1,5
+330,5468,1,2000,625,SPLM/A (Sudan People's Liberation Movement/Army),1312,5,0,SSUM/A (South Sudan United Movement/Army),1920,5,0,55,0,1,0,0,0,1,0,0,0,0,0,1,3
+331,5469,1,1997,625,SPLM/A (Sudan People's Liberation Movement/Army),1312,5,0,UNRF II (Uganda National Rescue Front II),1339,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+332,5470,1,1995,625,SPLM/A (Sudan People's Liberation Movement/Army),1312,5,0,WNBF (West Nile Bank Front),1338,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+332,5470,1,1996,625,SPLM/A (Sudan People's Liberation Movement/Army),1312,5,0,WNBF (West Nile Bank Front),1338,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+332,5470,1,1997,625,SPLM/A (Sudan People's Liberation Movement/Army),1312,5,0,WNBF (West Nile Bank Front),1338,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+333,5471,1,1998,625,SSDF (Southern Sudan Defence Force),1546,5,0,SSUM/A (South Sudan United Movement/Army),1920,5,0,55,0,1,0,0,0,1,0,0,0,0,5,5,5
+333,5471,1,1999,625,SSDF (Southern Sudan Defence Force),1546,5,0,SSUM/A (South Sudan United Movement/Army),1920,5,0,55,0,1,0,0,0,1,0,0,0,0,5,5,5
+334,5472,3,1991,461,Moba,1878,3,0,Tchokossi,1877,3,0,33,1,0,1,1,0,0,0,0,0,1,0,5,3
+335,5473,3,2000,500,Bokora Karimojong,1444,1,0,"Jie, Matheniko Karimojong",550010,1,0,11,0,0,1,0,0,0,1,0,0,0,0,5,5
+336,5474,3,1999,500,Bokora Karimojong,1444,1,0,Matheniko Karimojong,1908,1,0,11,1,0,1,1,0,0,1,0,0,0,0,5,5
+337,5475,3,2000,500,Bokora Karimojong,1444,1,0,"Matheniko Karimojong, Turkana",550009,1,0,11,0,0,1,0,0,0,1,0,0,0,0,5,5
+338,5476,3,2000,500,Dodoth,1921,1,0,Jie,1489,1,0,11,0,0,1,0,0,0,1,0,0,0,0,5,5
+338,5476,3,2005,500,Dodoth,1921,1,0,Jie,1489,1,0,11,0,0,1,0,0,0,1,0,0,0,0,5,5
+338,5476,3,2009,500,Dodoth,1921,1,0,Jie,1489,1,0,11,0,0,1,0,0,0,1,0,0,0,0,5,5
+339,5477,3,2000,500,Dodoth,1921,1,0,"Toposa, Turkana",550005,1,0,11,0,0,1,0,0,0,1,0,0,0,0,5,5
+340,5478,3,2001,500,Iteso,1879,3,0,Karimojong,1923,1,0,13,0,0,1,0,0,0,1,0,0,0,0,5,5
+341,5479,3,1998,500,Karimojong,1923,1,0,Pokot,1529,2,0,12,0,0,1,0,0,0,1,0,0,0,0,5,5
+341,5479,3,2000,500,Karimojong,1923,1,0,Pokot,1529,2,0,12,0,0,1,0,0,0,1,0,0,0,0,5,5
+341,5479,3,2003,500,Karimojong,1923,1,0,Pokot,1529,2,0,12,0,0,1,0,0,0,1,0,0,0,0,5,5
+342,5480,3,1999,500,Matheniko Karimojong,1908,1,0,Pokot,1529,2,0,12,0,0,1,0,0,0,1,0,0,0,0,5,5
+348,5486,3,2009,475,Afor,1880,3,0,Fulani,1461,2,1,23,1,0,0,1,0,0,0,0,0,0,0,5,5
+349,5487,2,2009,580,Supporters of Andry Rajoelina,1881,5,0,Supporters of Marc Ravalomanana,1924,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,3
+350,5488,1,2009,520,Al-Shabaab,1578,5,0,Hizbul Islam,1882,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,3
+350,5488,1,2010,520,Al-Shabaab,1578,5,0,Hizbul Islam,1882,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,3
+353,5489,3,2009,625,Ngok Dinka,1884,2,0,Shiluk,1885,2,0,22,1,1,1,1,0,1,0,0,0,1,0,1,5
+355,5490,3,2009,625,Bari,1886,1,0,Mundari,1925,1,0,11,0,0,1,0,0,0,1,0,0,0,0,1,3
+356,5491,3,2009,625,Bor Dinka,1569,2,0,Mundari,1925,1,0,12,1,0,1,1,0,0,1,0,0,0,5,1,5
+357,5492,3,2009,625,Aliap Dinka,1887,2,0,Mundari,1925,1,0,12,0,0,1,0,0,0,1,0,0,0,0,1,5
+358,5493,3,2009,625,Luac Jang Dinka,1888,2,0,Awan Dinka,1889,2,0,22,1,0,1,1,0,0,1,0,0,0,0,1,5
+360,5494,3,2004,475,Fulani,1461,2,1,Tarok,1550,3,1,23,1,1,1,1,0,1,1,0,1,0,0,5,5
+362,5496,3,1990,625,Pari,1890,3,0,Toposa,1553,1,0,13,1,0,1,1,0,0,1,0,0,1,0,1,3
+363,5497,1,2007,530,Al-Shabaab,1578,5,1,ONLF (Ogaden National Liberation Front),1346,5,0,55,0,0,1,0,0,0,NA,0,0,NA,0,0,0
+365,5498,3,1999,432,Arab,1891,4,0,Kounta,1892,4,0,44,1,1,0,0,0,1,0,0,1,0,0,5,3
+366,5499,3,1992,475,Atyap,1893,4,1,Hausa,1462,2,1,24,1,0,1,0,1,0,0,0,1,0,0,5,5
+368,5500,3,2001,475,Hausa,1462,2,1,"Igbo, Yoruba",547503,4,1,24,0,0,1,0,1,0,0,0,0,1,0,5,5
+369,5501,3,2005,500,Jie,1489,1,0,Matheniko Karimojong,1908,1,0,11,0,0,1,0,0,0,1,0,0,0,0,5,5
+370,5502,2,2000,437,Supporters of Laurent Gbagbo,1894,5,1,Supporters of Alassane Outtara,1895,5,1,55,0,1,0,0,0,1,0,0,0,0,0,5,5
+371,5503,2,2002,580,Supporters of Didier Ratsiraka,1896,5,0,Supporters of Marc Ravalomanana,1924,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,3
+372,5504,3,1989,435,Mauretanian,1897,2,0,Senegalese,1898,3,0,23,1,0,0,1,0,0,0,0,0,0,0,5,5
+373,5505,3,1991,475,Christians (Nigeria),1899,4,1,Muslims (Nigeria),1900,4,1,44,0,0,1,0,1,0,0,0,0,1,0,5,5
+373,5505,3,1992,475,Christians (Nigeria),1899,4,1,Muslims (Nigeria),1900,4,1,44,0,0,1,0,1,0,0,0,0,1,0,5,5
+373,5505,3,2000,475,Christians (Nigeria),1899,4,1,Muslims (Nigeria),1900,4,1,44,0,0,1,0,1,0,0,0,0,0,0,5,5
+373,5505,3,2002,475,Christians (Nigeria),1899,4,1,Muslims (Nigeria),1900,4,1,44,0,1,1,0,1,1,0,0,0,0,0,5,5
+373,5505,3,2004,475,Christians (Nigeria),1899,4,1,Muslims (Nigeria),1900,4,1,44,1,1,1,0,1,1,1,0,1,1,1,5,5
+373,5505,3,2006,475,Christians (Nigeria),1899,4,1,Muslims (Nigeria),1900,4,1,44,0,0,1,0,1,0,0,0,0,0,0,5,5
+373,5505,3,2010,475,Christians (Nigeria),1899,4,1,Muslims (Nigeria),1900,4,1,44,0,1,1,0,1,1,0,0,0,1,0,5,5
+373,5505,3,2011,475,Christians (Nigeria),1899,4,1,Muslims (Nigeria),1900,4,1,44,0,1,1,0,1,1,0,0,0,1,0,5,5
+374,5506,3,1998,475,Bini,1901,3,0,Urhobo,1820,3,0,33,1,0,1,0,0,0,0,0,1,1,0,1,3
+375,5507,2,2003,475,Supporters of PDP (People's Democratic Party),1527,5,1,Supporters of UNPP (United Nigeria People's Party),1902,5,0,55,0,1,0,0,0,1,0,0,0,0,0,1,3
+393,5524,1,1997,516,CNDD (Conseil national pour la dÃÂÃÂ©fense de la dÃÂÃÂ©mocratie: National Council for the Defence of Democracy),1277,5,0,Palipehutu-FNL (Parti pour la libÃÂÃÂ©ration du peuple Hutu-Forces nationales de libÃÂÃÂ©ration: Party for the Liberation of the Hutu People-Forces for National Liberation),1278,5,0,55,0,1,0,0,0,0,0,1,0,0,0,1,3
+394,5525,3,2000,500,Dodoth,1921,1,0,Turkana,1554,1,0,11,1,0,1,1,0,0,1,0,0,0,5,5,5
+395,5526,3,2004,530,Anuak,1435,3,0,Highlanders,1957,4,0,34,1,0,0,0,0,0,0,0,1,0,1,5,5
+396,5527,1,2003,490,FNI (Front Nationalist et Integrationist: Front for National Integration),1460,5,0,PUSIC (Parti pour l'unitÃÂÃÂ© et la sauvegarde de l'intÃÂÃÂ©gritÃÂÃÂ© du Congo: Party for Unity and Safeguarding of the Integrity of Congo),1959,5,0,55,1,0,0,0,0,0,0,0,1,0,0,5,5
+397,5528,1,2003,490,FNI (Front Nationalist et Integrationist: Front for National Integration),1460,5,0,UPC (Union des Patriotes Congolais: Union of Congolese Patriots),1960,5,0,55,1,0,0,0,0,0,0,0,1,0,0,5,5
+398,5529,1,2003,490,"FNI (Front Nationalist et Integrationist: Front for National Integration), FRPI (Force de rÃÂÃÂ©sistance patriotique en Ituri: Patriotic Force of Resistance in Ituri)",549003,5,0,UPC (Union des Patriotes Congolais: Union of Congolese Patriots),1960,5,0,55,1,0,0,0,0,0,0,0,1,0,0,1,5
+399,5530,1,2002,490,RCD-K-ML (Rassemblement Congolais pour la DÃÂÃÂ©mocratie-Kisangani-Mouvement de libÃÂÃÂ©ration: Congolese Rally for Democracy-Kisangani-Liberation Movement),1650,5,0,UPC (Union des Patriotes Congolais: Union of Congolese Patriots),1960,5,0,55,1,0,0,0,0,0,0,0,1,0,0,5,5
+401,5531,3,2001,530,Suri,1549,1,0,Tishana -MeÃ¢ÂÂen,1962,3,0,13,1,0,1,1,0,0,1,0,0,0,1,1,5
+402,5532,3,1999,530,Borana,1445,2,0,Hamar (Ethiopia),6294,2,0,22,0,0,1,0,0,0,1,0,0,0,0,1,5
+403,5533,3,2001,530,Geri,1906,4,0,Makahin,1965,2,0,24,1,0,0,1,0,0,0,0,0,0,0,1,3
+404,5534,3,2005,501,Borana,1445,2,0,Gabra,1463,2,0,22,1,0,1,1,0,0,1,0,0,0,1,5,5
+404,5534,3,2006,501,Borana,1445,2,0,Gabra,1463,2,0,22,1,0,1,1,0,0,1,0,0,0,1,5,5
+404,5534,3,2007,501,Borana,1445,2,0,Gabra,1463,2,0,22,1,0,1,1,0,0,1,0,0,0,1,5,5
+405,5535,3,2006,501,Pokot,1529,2,0,Samburu,1794,2,0,22,1,0,1,1,0,0,1,0,0,0,0,5,3
+405,5535,3,2009,501,Pokot,1529,2,0,Samburu,1794,2,0,22,1,0,1,1,0,0,1,0,0,0,0,5,3
+406,5536,3,1996,501,Samburu,1794,2,0,Turkana,1554,1,0,12,0,0,1,0,0,0,1,0,0,0,0,5,5
+408,5537,3,1991,530,Ari,1968,3,0,Mursi,1969,1,0,13,1,0,1,0,0,0,0,0,1,1,1,1,3
+408,5537,3,1999,530,Ari,1968,3,0,Mursi,1969,1,0,13,0,0,1,0,0,0,0,0,0,1,1,1,3
+409,5538,3,1989,501,Dassanetch,1574,2,0,"Nyangatom, Toposa",553002,2,0,22,0,0,1,0,0,0,1,0,0,0,0,5,5
+411,5540,3,1996,501,Samburu,1794,2,0,Somali (Kenya),1991,2,0,22,0,0,1,0,0,0,1,0,0,0,0,5,3
+412,5541,3,2000,500,Bokora Karimojong,1444,1,0,"Jie, Matheniko Karimojong, Turkana",550004,1,0,11,0,0,1,0,0,0,1,0,0,0,0,5,5
+413,5542,1,1997,520,Forces of General Morgan,1966,5,0,Forces of Omar Jess,1837,5,0,55,1,0,0,0,0,0,0,0,1,0,1,5,2
+413,5542,1,1998,520,Forces of General Morgan,1966,5,0,Forces of Omar Jess,1837,5,0,55,1,0,0,0,0,0,0,0,1,0,1,5,2
+423,5552,3,2010,520,Suleiman subclan of Habar Gidir clan (Hawiye),1548,2,0,Qubeys subclan (Dir),1983,2,0,22,1,0,0,1,0,0,0,0,0,0,1,5,3
+424,5553,3,2010,625,Gok Dinka,1437,2,0,Rek Dinka,1982,2,0,22,1,0,1,1,0,0,1,0,0,0,0,1,5
+425,5554,1,2010,520,Mujahideen in the Golis Mountains,1981,5,0,Puntland state of Somalia,1530,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,3
+425,5554,1,2011,520,Mujahideen in the Golis Mountains,1981,5,0,Puntland state of Somalia,1530,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,3
+426,5555,3,2010,475,Boje,1979,3,0,Nsadop,1980,3,0,33,1,0,0,0,0,0,0,0,1,0,0,1,5
+427,5556,3,2010,625,Atuot Dinka,1977,2,0,Ciek Dinka,1978,2,0,22,0,0,1,0,0,0,1,0,0,0,0,1,5
+428,5557,1,2010,520,Ahlu Sunna Waljamaca,1761,5,1,Hizbul Islam,1882,5,1,55,1,0,1,0,1,0,0,0,1,0,5,5,3
+429,5558,3,2002,475,Birom,1443,4,1,Fulani,1461,2,1,24,1,1,1,0,1,1,0,0,1,0,0,5,5
+429,5558,3,2010,475,Birom,1443,4,1,Fulani,1461,2,1,24,1,0,0,0,0,0,0,0,1,0,0,5,5
+429,5558,3,2011,475,Birom,1443,4,1,Fulani,1461,2,1,24,1,0,0,0,0,0,0,0,1,0,0,5,5
+430,5559,3,1997,501,Dassanetch,1574,2,0,Gabra,1463,2,0,22,0,0,1,0,0,0,1,0,0,0,0,5,5
+432,5560,3,2002,437,BurkinabÃÂÃÂ©,1995,3,1,GuÃÂÃÂ©rÃÂÃÂ©,1994,3,1,33,1,0,0,0,0,0,0,0,1,0,5,5,5
+432,5560,3,2003,437,BurkinabÃÂÃÂ©,1995,3,1,GuÃÂÃÂ©rÃÂÃÂ©,1994,3,1,33,1,0,0,0,0,0,0,0,1,0,5,5,5
+432,5560,3,2004,437,BurkinabÃÂÃÂ©,1995,3,1,GuÃÂÃÂ©rÃÂÃÂ©,1994,3,1,33,1,0,0,0,0,0,0,0,1,0,5,5,5
+433,5561,3,2005,437,Dioula,1453,3,1,GuÃÂÃÂ©rÃÂÃÂ©,1994,3,1,33,1,0,0,0,0,0,0,0,1,0,5,5,5
+434,5562,3,2005,437,GuÃÂÃÂ©rÃÂÃÂ©,1994,3,1,Senufo,1996,3,1,33,1,0,0,0,0,0,0,0,1,0,5,5,5
+435,5563,3,2000,530,Degodia,1787,2,0,Garre,1963,2,0,22,1,0,1,1,0,0,1,0,0,0,0,1,2
+437,5565,3,2000,500,Dodoth,1921,1,0,"Jie, Matheniko Karimojong",550010,1,0,11,0,0,1,0,0,0,1,0,0,0,0,5,5
+438,5566,3,1999,475,Oleh,2003,4,0,Olmoro,2004,4,0,44,0,0,1,0,0,0,0,0,0,1,0,1,3
+439,5567,3,2001,520,Abgal clan (Hawiye),1907,2,0,Garre subclan of Digil clan (Digil-Mirifle),1466,1,0,12,1,0,0,1,0,0,0,0,0,0,0,1,3
+440,5568,1,2001,520,Forces of Abdullahi Yusuf,1422,5,0,Forces of Yussuf Hajji Nur,2005,5,0,55,0,1,0,0,0,1,0,0,0,0,5,5,3
+441,5569,3,2003,530,Hamar (Ethiopia),6294,2,0,Nyangatom,1573,2,0,22,1,0,1,1,0,0,1,0,0,0,1,1,2
+443,5571,1,2011,520,Al-Shabaab,1578,5,0,SVA (Shabelle Valley Alliance),2032,5,0,55,1,0,0,0,0,0,0,0,1,0,1,5,3
+444,5572,3,2011,437,GuÃÂÃÂ©rÃÂÃÂ©,1994,3,1,MalinkÃÂÃÂ©,2024,1,1,13,0,1,0,0,0,1,0,0,0,0,5,5,5
+445,5573,1,2011,490,FDC (Forces de dÃÂÃÂ©fense congolaise: Congolese Defence Force),2021,5,0,FDLR (Forces democratiques de liberation du Rwanda: Democratic Liberation Forces of Rwanda),1380,5,0,55,1,0,0,0,0,0,0,0,1,0,0,1,5
+448,5576,3,2011,438,Kpelle,2026,3,1,MalinkÃÂÃÂ©,2024,1,1,13,1,0,1,0,1,0,0,0,1,0,0,5,3
+451,5579,1,2011,482,CPJP (Convention des patriotes pour la justice et la paix: Convention of Patriots for Justice and Peace),1937,5,0,UFDR (Union des Forces dÃÂÃÂ©mocratiques pour le rassemblement: Union of Democratic Forces for Unity),1408,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,5
+452,5580,3,2011,501,Borana,1445,2,0,Turkana,1554,1,0,12,1,0,1,1,0,0,1,0,0,0,5,5,3
+453,5581,3,2011,475,Hausa,1462,2,1,Sayawa,2025,3,1,23,1,1,0,0,0,1,0,0,1,0,0,5,5
+454,5582,3,2011,475,Ezilo,2019,3,0,Ezza,2020,3,0,33,1,0,0,0,0,0,0,0,1,0,3,5,5
+455,5583,3,2011,475,Fulani,1461,2,1,Tiv,1911,3,1,23,1,1,0,1,0,1,0,0,0,0,0,5,5
+456,5584,3,2011,625,Misseriya,1904,2,0,Ngok Dinka,1884,2,0,22,1,1,0,1,0,1,0,0,0,0,3,5,5
+457,5585,3,2011,625,Gony Dinka,2022,2,0,Thiyic Dinka,2023,2,0,22,0,1,1,0,0,1,1,0,0,0,0,1,5
+458,5586,3,2011,625,Atuot Dinka,1977,2,0,Jur Beli,2033,3,0,23,1,0,1,1,0,0,1,0,0,0,0,5,5
+466,5593,1,1993,450,RUF,1384,5,0,ULIMO,1558,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,2
+467,5594,1,1993,451,Kamajors,1386,5,0,RUF,1384,5,0,55,0,1,0,0,0,1,0,0,0,0,0,5,2
+468,5595,1,2006,475,Deebam,2054,5,0,Deewell,2055,5,0,55,1,0,1,0,0,0,0,0,1,1,0,5,5
+469,5596,1,2007,475,"Black Axe, Bush Boys, Deebam, KK, NDV",547527,5,0,Outlaws,2056,5,0,55,0,0,1,0,0,0,0,0,0,1,0,5,5
+481,5607,3,2002,475,Isenasawo,2076,4,0,Isongo-furo,2077,4,0,55,1,1,0,0,0,1,0,0,1,0,5,5,5
+482,5608,1,2005,475,Forces of Agala,2078,5,0,Forces of Edu,2079,5,0,55,0,1,0,0,0,1,0,0,0,0,0,1,3
+484,5610,1,1998,490,"ALiR, Mayi Mayi",549013,5,0,RCD,1270,5,0,55,1,0,0,0,0,0,0,0,1,0,5,5,2
+485,5612,3,1998,490,"Bafulero, Bavira",549019,3,0,Banyamulenge,2083,2,0,23,1,1,0,0,0,1,0,0,1,0,0,1,2
+505,11942,1,2001,490,FLC,2109,5,0,Mayi Mayi,1505,5,0,55,NA,NA,NA,0,0,0,NA,0,0,NA,1,1,3
+506,12070,1,2011,475,NURTW-Auxiliary,2110,5,0,NURTW-Tokyo,2111,5,0,55,1,0,0,0,0,0,0,0,1,0,0,1,3
+10301,10301,3,2005,625,Northern Sudanese,2379,4,1,Southern Sudanese,2395,4,1,44,0,0,1,0,1,0,0,0,0,0,0,5,5
+11433,11433,1,2011,475,Black Axe,2114,5,0,Eyie,3108,5,0,55,0,0,1,0,0,0,0,0,0,1,0,1,5
+11735,11735,3,2010,475,Birom,1443,4,1,"Fulani, Hausa",547520,2,1,24,1,0,1,0,1,0,0,0,1,0,5,5,5
